@@ -1,0 +1,107 @@
+<br />
+<div class="row container">
+  <div class="offset-3 col-md-8">
+    <mat-horizontal-stepper #stepper>
+      <mat-step [stepControl]="firstFormGroup">
+        <form [formGroup]="firstFormGroup">
+          <ng-template matStepLabel>What should we call you?</ng-template>
+          <mat-form-field>
+            <mat-label>First Name</mat-label>
+            <input matInput placeholder="First name" [(ngModel)]="user.firstName" [ngModelOptions]="{standalone: true}"
+              required>
+          </mat-form-field><br />
+          <mat-form-field>
+            <mat-label>Last Name</mat-label>
+            <input matInput placeholder="Last name" [(ngModel)]="user.lastName" [ngModelOptions]="{standalone: true}"
+              required>
+          </mat-form-field><br /><br />
+
+          <mat-form-field class="example-full-width" appearance="fill">
+            <mat-label>Your Birthday</mat-label>
+            <input matInput [matDatepickerFilter]="myFilter" [matDatepicker]="picker">
+            <mat-datepicker-toggle matSuffix ngDefaultControl [for]="picker" [(ngModel)]="user.dob"
+              [ngModelOptions]="{standalone: true}"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+          </mat-form-field>
+
+          <br /><br />
+          <mat-radio-group aria-labelledby="example-radio-group-label" class="example-radio-group"
+            [(ngModel)]="user.gender" [ngModelOptions]="{standalone: true}">
+            <mat-label>Your Pronoun</mat-label><br />
+            <mat-radio-button class="example-radio-button" *ngFor="let gender of genders" [value]="gender">
+              {{gender}}
+            </mat-radio-button>
+          </mat-radio-group><br /><br />
+
+          <div>
+            <button mat-button matStepperNext style="float: right;">Next >></button>
+          </div>
+        </form>
+      </mat-step>
+
+
+      <mat-step [stepControl]="secondFormGroup">
+        <form [formGroup]="secondFormGroup">
+          <ng-template matStepLabel>Where can we find you?</ng-template>
+          <mat-form-field>
+            <mat-label>Email</mat-label>
+            <input matInput [(ngModel)]="user.email" [ngModelOptions]="{standalone: true}" placeholder="Ex. abc@xyz.com"
+              required>
+          </mat-form-field><br /><br />
+          <mat-form-field>
+            <mat-label>Phone</mat-label>
+            <input matInput [(ngModel)]="user.phone" [ngModelOptions]="{standalone: true}" placeholder="Ex. 1234567890"
+              required>
+          </mat-form-field><br /><br />
+          <mat-form-field>
+            <mat-label>Country</mat-label>
+            <input matInput [(ngModel)]="user.country" [ngModelOptions]="{standalone: true}" placeholder="Ex. India"
+              required>
+          </mat-form-field>
+          <br />
+          <div style="float: right;">
+            <button mat-button matStepperPrevious>{{"<<"}}Back</button>
+                <button mat-button matStepperNext>Next{{">>"}}</button>
+          </div>
+        </form>
+      </mat-step>
+
+
+      <mat-step>
+        <ng-template matStepLabel>How can you ping us?</ng-template>
+        <mat-form-field>
+          <mat-label>User Name</mat-label>
+          <input matInput [(ngModel)]="user.userName" [ngModelOptions]="{standalone: true}" placeholder="Ex. aBcdeF"
+            required>
+        </mat-form-field>
+        <span style="font-size:x-small;">*Needed to sign you in</span>
+        <br /><br />
+        <mat-form-field>
+          <mat-label>Password</mat-label>
+          <input matInput [(ngModel)]="user.password" [ngModelOptions]="{standalone: true}" placeholder="Ex. Abcde@123"
+            required>
+        </mat-form-field><br /><br />
+
+        <mat-form-field appearance="fill">
+          <mat-label>Security Question</mat-label>
+          <mat-select [(value)]="user.securityQuestion">
+            <mat-option>None</mat-option>
+            <mat-option *ngFor="let genders of genders" [value]="gender">{{genders}}</mat-option>
+          </mat-select>
+        </mat-form-field>          
+        <span style="font-size:x-small;">*Just in case if you forget your password</span>
+        <br /> <br />
+
+        <mat-form-field>
+          <mat-label>Security Answer</mat-label>
+          <input matInput [(ngModel)]="user.securityAnswer" [ngModelOptions]="{standalone: true}" placeholder="Ex. abc"
+            required>
+        </mat-form-field><br/>
+        <div style="float: right;">
+          <button mat-button matStepperPrevious>{{"<<"}}Back</button>
+          <button mat-button (click)="stepper.reset()">Reset</button>
+        </div>
+      </mat-step>
+    </mat-horizontal-stepper>
+  </div>
+</div>

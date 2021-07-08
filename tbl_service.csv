@@ -1,0 +1,2001 @@
+serviceId,serviceType,salesChannel,price,saleStartDate,saleEndDate,isActive
+1,Iphones,Online,255.28,23-Sep-21,22-Mar-22,1
+2,Android Mobiles,Offline,205.7,23-Jan-21,22-Jul-21,0
+3,Android Mobiles,Online,651.21,21-Feb-20,19-Aug-20,0
+4,SIM,Offline,9.33,21-Feb-20,19-Aug-20,0
+5,WIFI,Offline,651.21,04-Jul-21,31-Dec-21,0
+6,Chargers,Online,255.28,09-Jul-21,05-Jan-22,1
+7,SIM,Offline,668.27,03-Dec-19,31-May-20,0
+8,Iphones,Offline,154.06,15-Mar-21,11-Sep-21,0
+9,Chargers,Offline,81.73,25-Mar-20,21-Sep-20,0
+10,Android Mobiles,Online,205.7,09-Jun-19,06-Dec-19,0
+11,Tablets,Online,154.06,19-Nov-20,18-May-21,0
+12,Chargers,Online,109.28,16-Sep-19,14-Mar-20,0
+13,Iphones,Offline,109.28,20-Apr-19,17-Oct-19,0
+14,Tablets,Offline,668.27,02-Jul-20,29-Dec-20,0
+15,Chargers,Offline,81.73,16-Oct-20,14-Apr-21,0
+16,Iphones,Offline,109.28,24-Feb-21,23-Aug-21,0
+17,SIM,Online,437.2,01-Jul-20,28-Dec-20,0
+18,Android Mobiles,Offline,47.45,06-Jun-20,03-Dec-20,0
+19,WIFI,Online,668.27,15-Aug-21,11-Feb-22,1
+20,WIFI,Offline,421.89,17-Apr-19,14-Oct-19,0
+21,Iphones,Online,255.28,11-Aug-21,07-Feb-22,1
+22,Tablets,Offline,255.28,22-Apr-20,19-Oct-20,0
+23,Android Mobiles,Online,152.58,21-Mar-20,17-Sep-20,0
+24,WIFI,Offline,9.33,26-Mar-19,22-Sep-19,0
+25,SIM,Offline,81.73,20-Jan-20,18-Jul-20,0
+26,Tablets,Online,437.2,03-May-19,30-Oct-19,0
+27,Chargers,Online,9.33,06-Jun-21,03-Dec-21,0
+28,Iphones,Offline,9.33,22-Apr-19,19-Oct-19,0
+29,Chargers,Online,47.45,01-Jan-20,29-Jun-20,0
+30,Iphones,Offline,668.27,18-Aug-20,14-Feb-21,0
+31,Tablets,Online,437.2,12-Nov-20,11-May-21,0
+32,WIFI,Offline,81.73,23-Mar-20,19-Sep-20,0
+33,WIFI,Online,651.21,15-Jan-19,14-Jul-19,0
+34,SIM,Online,668.27,26-Jan-20,24-Jul-20,0
+35,Iphones,Online,152.58,27-Feb-20,25-Aug-20,0
+36,Android Mobiles,Offline,81.73,28-Jun-20,25-Dec-20,0
+37,Tablets,Online,9.33,21-Apr-21,18-Oct-21,0
+38,Iphones,Online,421.89,11-Feb-19,10-Aug-19,0
+39,Tablets,Online,651.21,26-Dec-19,23-Jun-20,0
+40,Iphones,Offline,651.21,29-Oct-19,26-Apr-20,0
+41,Chargers,Offline,81.73,04-Dec-19,01-Jun-20,0
+42,Tablets,Online,437.2,02-Aug-20,29-Jan-21,0
+43,SIM,Online,205.7,19-Jan-20,17-Jul-20,0
+44,SIM,Online,154.06,23-Oct-20,21-Apr-21,0
+45,WIFI,Online,109.28,29-Apr-21,26-Oct-21,0
+46,Tablets,Offline,205.7,21-Aug-20,17-Feb-21,0
+47,Iphones,Online,437.2,28-Jun-19,25-Dec-19,0
+48,SIM,Online,81.73,23-Feb-21,22-Aug-21,0
+49,SIM,Online,109.28,08-Jan-20,06-Jul-20,0
+50,Iphones,Online,651.21,24-Oct-20,22-Apr-21,0
+51,Chargers,Online,109.28,08-Jan-19,07-Jul-19,0
+52,Iphones,Online,9.33,17-May-21,13-Nov-21,0
+53,SIM,Offline,205.7,17-Mar-21,13-Sep-21,0
+54,SIM,Offline,651.21,25-Apr-21,22-Oct-21,0
+55,SIM,Online,9.33,30-Aug-20,26-Feb-21,0
+56,WIFI,Offline,109.28,20-Apr-20,17-Oct-20,0
+57,Chargers,Online,109.28,27-Sep-19,25-Mar-20,0
+58,WIFI,Offline,437.2,20-Aug-21,16-Feb-22,1
+59,Tablets,Offline,668.27,21-May-20,17-Nov-20,0
+60,Iphones,Offline,437.2,15-Jun-20,12-Dec-20,0
+61,Tablets,Offline,205.7,04-Dec-20,02-Jun-21,0
+62,Iphones,Offline,255.28,17-Oct-20,15-Apr-21,0
+63,WIFI,Offline,651.21,17-Oct-20,15-Apr-21,0
+64,Android Mobiles,Offline,109.28,27-Apr-19,24-Oct-19,0
+65,Tablets,Offline,437.2,18-Mar-19,14-Sep-19,0
+66,Tablets,Online,437.2,18-Nov-19,16-May-20,0
+67,Chargers,Online,81.73,22-Feb-19,21-Aug-19,0
+68,Tablets,Offline,109.28,06-Jan-20,04-Jul-20,0
+69,Tablets,Online,651.21,14-Jun-21,11-Dec-21,0
+70,Android Mobiles,Offline,109.28,16-Feb-20,14-Aug-20,0
+71,Iphones,Offline,651.21,28-May-20,24-Nov-20,0
+72,Iphones,Online,9.33,30-Sep-19,28-Mar-20,0
+73,Iphones,Offline,47.45,21-Feb-20,19-Aug-20,0
+74,Android Mobiles,Online,205.7,22-Aug-19,18-Feb-20,0
+75,Android Mobiles,Online,437.2,09-Oct-21,07-Apr-22,1
+76,WIFI,Offline,668.27,30-Dec-19,27-Jun-20,0
+77,Tablets,Online,47.45,18-Jan-20,16-Jul-20,0
+78,Android Mobiles,Online,154.06,01-Nov-19,29-Apr-20,0
+79,Chargers,Online,255.28,12-Apr-19,09-Oct-19,0
+80,SIM,Offline,437.2,03-Jun-21,30-Nov-21,0
+81,Iphones,Online,668.27,10-Jul-21,06-Jan-22,1
+82,Chargers,Offline,109.28,02-Oct-21,31-Mar-22,1
+83,WIFI,Online,437.2,04-Apr-21,01-Oct-21,0
+84,Tablets,Online,152.58,16-Apr-19,13-Oct-19,0
+85,Android Mobiles,Offline,154.06,09-Dec-20,07-Jun-21,0
+86,SIM,Online,81.73,17-Feb-21,16-Aug-21,0
+87,Android Mobiles,Online,47.45,18-Feb-19,17-Aug-19,0
+88,WIFI,Offline,255.28,02-Dec-20,31-May-21,0
+89,SIM,Offline,9.33,03-Aug-20,30-Jan-21,0
+90,Tablets,Offline,47.45,27-Sep-19,25-Mar-20,0
+91,Chargers,Offline,651.21,29-Jan-21,28-Jul-21,0
+92,Iphones,Offline,47.45,08-Nov-20,07-May-21,0
+93,WIFI,Offline,651.21,21-Feb-21,20-Aug-21,0
+94,SIM,Offline,437.2,25-Jul-19,21-Jan-20,0
+95,Iphones,Online,47.45,18-Nov-20,17-May-21,0
+96,Chargers,Offline,109.28,24-Nov-19,22-May-20,0
+97,Tablets,Offline,9.33,29-Aug-20,25-Feb-21,0
+98,Iphones,Offline,154.06,12-Nov-19,10-May-20,0
+99,WIFI,Online,81.73,27-Jul-20,23-Jan-21,0
+100,Chargers,Offline,668.27,06-Sep-19,04-Mar-20,0
+101,WIFI,Offline,255.28,10-Feb-21,09-Aug-21,0
+102,Android Mobiles,Offline,205.7,23-Jan-19,22-Jul-19,0
+103,Iphones,Offline,651.21,05-Nov-19,03-May-20,0
+104,SIM,Offline,9.33,12-Apr-20,09-Oct-20,0
+105,Android Mobiles,Online,651.21,18-Feb-20,16-Aug-20,0
+106,Iphones,Online,255.28,19-Dec-19,16-Jun-20,0
+107,SIM,Offline,668.27,17-Aug-21,13-Feb-22,1
+108,SIM,Online,154.06,30-Jul-20,26-Jan-21,0
+109,SIM,Offline,81.73,01-Jun-19,28-Nov-19,0
+110,Tablets,Offline,205.7,07-Feb-20,05-Aug-20,0
+111,Iphones,Online,154.06,01-Jul-21,28-Dec-21,0
+112,Tablets,Offline,109.28,26-Jun-20,23-Dec-20,0
+113,Iphones,Online,109.28,05-May-20,01-Nov-20,0
+114,Android Mobiles,Offline,668.27,14-Oct-20,12-Apr-21,0
+115,Chargers,Online,81.73,19-Jan-19,18-Jul-19,0
+116,SIM,Online,109.28,12-Jan-21,11-Jul-21,0
+117,Chargers,Offline,437.2,27-Jan-19,26-Jul-19,0
+118,WIFI,Online,47.45,20-Aug-21,16-Feb-22,1
+119,Android Mobiles,Offline,668.27,29-May-19,25-Nov-19,0
+120,Tablets,Offline,421.89,29-Jul-21,25-Jan-22,1
+121,Iphones,Online,255.28,22-Jun-19,19-Dec-19,0
+122,WIFI,Online,255.28,06-Oct-21,04-Apr-22,1
+123,WIFI,Online,152.58,27-Mar-20,23-Sep-20,0
+124,WIFI,Online,9.33,03-Jun-21,30-Nov-21,0
+125,Iphones,Offline,81.73,02-Nov-20,01-May-21,0
+126,Chargers,Offline,437.2,01-Jun-21,28-Nov-21,0
+127,Iphones,Online,9.33,16-Apr-20,13-Oct-20,0
+128,Chargers,Online,9.33,17-Nov-19,15-May-20,0
+129,Android Mobiles,Online,47.45,08-Feb-21,07-Aug-21,0
+130,SIM,Offline,668.27,13-Oct-20,11-Apr-21,0
+131,SIM,Offline,437.2,13-May-21,09-Nov-21,0
+132,Tablets,Online,81.73,20-Oct-20,18-Apr-21,0
+133,Chargers,Online,651.21,03-May-20,30-Oct-20,0
+134,WIFI,Online,668.27,15-Aug-21,11-Feb-22,1
+135,Iphones,Offline,152.58,27-Jul-19,23-Jan-20,0
+136,Tablets,Online,81.73,27-Jun-21,24-Dec-21,0
+137,Android Mobiles,Offline,9.33,10-Feb-20,08-Aug-20,0
+138,Android Mobiles,Offline,421.89,22-Aug-21,18-Feb-22,1
+139,Iphones,Online,651.21,27-Nov-19,25-May-20,0
+140,Chargers,Online,651.21,08-Jun-20,05-Dec-20,0
+141,WIFI,Online,81.73,27-Oct-20,25-Apr-21,0
+142,Iphones,Online,437.2,05-Oct-19,02-Apr-20,0
+143,Android Mobiles,Offline,205.7,16-May-20,12-Nov-20,0
+144,SIM,Online,154.06,02-Jan-20,30-Jun-20,0
+145,Iphones,Offline,109.28,10-Feb-20,08-Aug-20,0
+146,WIFI,Offline,205.7,31-Dec-20,29-Jun-21,0
+147,Chargers,Offline,437.2,15-Nov-19,13-May-20,0
+148,Chargers,Offline,81.73,16-Jan-20,14-Jul-20,0
+149,SIM,Online,109.28,16-Jul-20,12-Jan-21,0
+150,Iphones,Offline,651.21,27-Aug-20,23-Feb-21,0
+151,WIFI,Offline,109.28,02-Jan-21,01-Jul-21,0
+152,Chargers,Online,9.33,16-Feb-19,15-Aug-19,0
+153,Chargers,Online,205.7,20-Dec-20,18-Jun-21,0
+154,Chargers,Online,651.21,17-Dec-20,15-Jun-21,0
+155,Tablets,Offline,9.33,23-Aug-19,19-Feb-20,0
+156,SIM,Offline,109.28,04-Nov-20,03-May-21,0
+157,Chargers,Online,109.28,17-Aug-21,13-Feb-22,1
+158,SIM,Online,437.2,28-Aug-20,24-Feb-21,0
+159,Android Mobiles,Online,668.27,15-May-20,11-Nov-20,0
+160,WIFI,Offline,437.2,12-Apr-21,09-Oct-21,0
+161,Tablets,Offline,205.7,03-Aug-20,30-Jan-21,0
+162,Chargers,Offline,255.28,12-Jul-19,08-Jan-20,0
+163,Tablets,Online,651.21,08-Jun-20,05-Dec-20,0
+164,Android Mobiles,Offline,109.28,30-Sep-19,28-Mar-20,0
+165,Chargers,Online,437.2,26-Dec-19,23-Jun-20,0
+166,SIM,Online,437.2,02-Oct-20,31-Mar-21,0
+167,Android Mobiles,Online,81.73,26-Aug-20,22-Feb-21,0
+168,WIFI,Online,109.28,15-Mar-19,11-Sep-19,0
+169,WIFI,Offline,651.21,15-Apr-21,12-Oct-21,0
+170,Iphones,Offline,109.28,05-Oct-19,02-Apr-20,0
+171,Android Mobiles,Offline,651.21,02-Jul-21,29-Dec-21,0
+172,Tablets,Offline,9.33,13-Oct-21,11-Apr-22,1
+173,WIFI,Offline,47.45,26-Aug-21,22-Feb-22,1
+174,Tablets,Online,205.7,15-Jan-20,13-Jul-20,0
+175,Chargers,Offline,437.2,30-Jun-21,27-Dec-21,0
+176,Chargers,Offline,668.27,11-Jun-19,08-Dec-19,0
+177,Chargers,Online,47.45,14-Feb-19,13-Aug-19,0
+178,WIFI,Offline,154.06,24-Aug-20,20-Feb-21,0
+179,SIM,Offline,255.28,17-Mar-20,13-Sep-20,0
+180,WIFI,Offline,437.2,23-Nov-19,21-May-20,0
+181,WIFI,Offline,668.27,11-Oct-20,09-Apr-21,0
+182,Iphones,Online,109.28,17-Nov-20,16-May-21,0
+183,Iphones,Online,437.2,26-Feb-21,25-Aug-21,0
+184,Iphones,Online,152.58,05-Nov-20,04-May-21,0
+185,Android Mobiles,Online,154.06,11-Aug-20,07-Feb-21,0
+186,Iphones,Offline,81.73,18-May-21,14-Nov-21,0
+187,Tablets,Online,47.45,18-Apr-20,15-Oct-20,0
+188,WIFI,Offline,255.28,23-Jan-20,21-Jul-20,0
+189,Chargers,Offline,9.33,27-Apr-19,24-Oct-19,0
+190,WIFI,Online,47.45,19-Apr-21,16-Oct-21,0
+191,Chargers,Offline,651.21,20-Oct-20,18-Apr-21,0
+192,Iphones,Online,47.45,29-Mar-19,25-Sep-19,0
+193,WIFI,Offline,651.21,30-Apr-20,27-Oct-20,0
+194,Tablets,Online,437.2,17-Jul-21,13-Jan-22,1
+195,Chargers,Offline,47.45,24-Jan-20,22-Jul-20,0
+196,Chargers,Online,109.28,01-Aug-19,28-Jan-20,0
+197,SIM,Online,9.33,21-Jun-21,18-Dec-21,0
+198,Tablets,Online,154.06,22-Mar-19,18-Sep-19,0
+199,Chargers,Offline,81.73,23-Sep-19,21-Mar-20,0
+200,Iphones,Offline,668.27,17-Jun-20,14-Dec-20,0
+201,Tablets,Online,255.28,10-Jun-20,07-Dec-20,0
+202,WIFI,Offline,205.7,20-Nov-20,19-May-21,0
+203,WIFI,Online,651.21,07-Jun-21,04-Dec-21,0
+204,SIM,Online,9.33,24-Feb-21,23-Aug-21,0
+205,WIFI,Offline,651.21,08-May-20,04-Nov-20,0
+206,Iphones,Offline,255.28,11-Feb-20,09-Aug-20,0
+207,Tablets,Offline,668.27,29-Jun-19,26-Dec-19,0
+208,Tablets,Offline,154.06,15-Oct-19,12-Apr-20,0
+209,Tablets,Online,81.73,01-Sep-21,28-Feb-22,1
+210,Tablets,Online,205.7,19-Mar-19,15-Sep-19,0
+211,SIM,Offline,154.06,13-Oct-21,11-Apr-22,1
+212,WIFI,Online,109.28,08-Aug-20,04-Feb-21,0
+213,Tablets,Online,109.28,01-Apr-19,28-Sep-19,0
+214,Chargers,Offline,668.27,12-Jul-19,08-Jan-20,0
+215,SIM,Online,81.73,29-Apr-21,26-Oct-21,0
+216,Chargers,Offline,109.28,03-Apr-21,30-Sep-21,0
+217,SIM,Online,437.2,12-Apr-21,09-Oct-21,0
+218,Android Mobiles,Offline,47.45,06-May-21,02-Nov-21,0
+219,Iphones,Offline,668.27,27-May-19,23-Nov-19,0
+220,Chargers,Offline,421.89,23-May-20,19-Nov-20,0
+221,WIFI,Online,255.28,01-Jul-20,28-Dec-20,0
+222,Android Mobiles,Online,255.28,21-Aug-19,17-Feb-20,0
+223,WIFI,Offline,152.58,30-Apr-19,27-Oct-19,0
+224,Iphones,Online,9.33,02-Sep-20,01-Mar-21,0
+225,Iphones,Offline,81.73,17-Feb-19,16-Aug-19,0
+226,Iphones,Online,437.2,04-Jun-20,01-Dec-20,0
+227,Tablets,Offline,9.33,12-Jan-19,11-Jul-19,0
+228,Iphones,Online,9.33,13-Aug-19,09-Feb-20,0
+229,SIM,Online,47.45,06-Feb-20,04-Aug-20,0
+230,Chargers,Offline,668.27,08-Sep-20,07-Mar-21,0
+231,Chargers,Online,437.2,16-Jan-20,14-Jul-20,0
+232,Chargers,Online,81.73,10-Mar-21,06-Sep-21,0
+233,Android Mobiles,Offline,651.21,19-May-19,15-Nov-19,0
+234,WIFI,Offline,668.27,15-Jun-20,12-Dec-20,0
+235,Tablets,Online,152.58,19-Apr-19,16-Oct-19,0
+236,SIM,Offline,81.73,12-Oct-19,09-Apr-20,0
+237,Tablets,Online,9.33,20-Oct-20,18-Apr-21,0
+238,Android Mobiles,Online,421.89,09-Oct-19,06-Apr-20,0
+239,Android Mobiles,Offline,651.21,24-May-21,20-Nov-21,0
+240,Chargers,Offline,651.21,03-Sep-20,02-Mar-21,0
+241,Tablets,Offline,81.73,01-Apr-21,28-Sep-21,0
+242,WIFI,Offline,437.2,17-Apr-21,14-Oct-21,0
+243,SIM,Online,205.7,19-Mar-20,15-Sep-20,0
+244,SIM,Offline,154.06,22-Sep-21,21-Mar-22,1
+245,Iphones,Online,109.28,17-Jun-20,14-Dec-20,0
+246,SIM,Offline,205.7,20-Mar-21,16-Sep-21,0
+247,WIFI,Online,437.2,02-Jan-19,01-Jul-19,0
+248,WIFI,Offline,81.73,28-Nov-20,27-May-21,0
+249,Chargers,Online,109.28,25-Jul-19,21-Jan-20,0
+250,Chargers,Offline,651.21,30-Mar-20,26-Sep-20,0
+251,Chargers,Offline,109.28,10-Feb-19,09-Aug-19,0
+252,SIM,Offline,9.33,20-Sep-21,19-Mar-22,1
+253,Iphones,Offline,205.7,13-Sep-20,12-Mar-21,0
+254,Android Mobiles,Online,651.21,09-Feb-20,07-Aug-20,0
+255,Chargers,Online,9.33,18-Aug-20,14-Feb-21,0
+256,WIFI,Online,109.28,17-Aug-19,13-Feb-20,0
+257,Android Mobiles,Online,109.28,14-Jul-19,10-Jan-20,0
+258,Chargers,Online,437.2,06-Aug-21,02-Feb-22,1
+259,Android Mobiles,Online,668.27,31-Jan-20,29-Jul-20,0
+260,Chargers,Online,437.2,07-Jan-19,06-Jul-19,0
+261,SIM,Offline,205.7,23-Nov-20,22-May-21,0
+262,WIFI,Online,255.28,01-Nov-19,29-Apr-20,0
+263,Chargers,Online,651.21,07-Sep-19,05-Mar-20,0
+264,WIFI,Online,109.28,19-Sep-19,17-Mar-20,0
+265,Chargers,Online,437.2,24-May-20,20-Nov-20,0
+266,SIM,Offline,437.2,16-Jul-20,12-Jan-21,0
+267,Android Mobiles,Online,81.73,26-Sep-21,25-Mar-22,1
+268,SIM,Online,109.28,08-Aug-20,04-Feb-21,0
+269,WIFI,Offline,651.21,13-Feb-21,12-Aug-21,0
+270,WIFI,Offline,109.28,16-Jul-21,12-Jan-22,1
+271,SIM,Offline,651.21,10-Mar-21,06-Sep-21,0
+272,Android Mobiles,Online,9.33,05-Nov-19,03-May-20,0
+273,Iphones,Offline,47.45,10-Mar-21,06-Sep-21,0
+274,Iphones,Offline,205.7,02-Jan-19,01-Jul-19,0
+275,Tablets,Online,437.2,24-May-19,20-Nov-19,0
+276,Android Mobiles,Offline,668.27,13-Apr-21,10-Oct-21,0
+277,Chargers,Online,47.45,26-Sep-20,25-Mar-21,0
+278,Android Mobiles,Offline,154.06,18-Sep-20,17-Mar-21,0
+279,Tablets,Online,255.28,23-Dec-19,20-Jun-20,0
+280,WIFI,Offline,437.2,16-Apr-21,13-Oct-21,0
+281,Tablets,Online,668.27,23-Jan-19,22-Jul-19,0
+282,SIM,Online,109.28,03-Aug-19,30-Jan-20,0
+283,Tablets,Online,437.2,21-Jan-21,20-Jul-21,0
+284,WIFI,Online,152.58,12-Jan-19,11-Jul-19,0
+285,SIM,Offline,154.06,02-May-19,29-Oct-19,0
+286,Iphones,Online,81.73,06-Oct-20,04-Apr-21,0
+287,Iphones,Offline,47.45,04-May-19,31-Oct-19,0
+288,Android Mobiles,Offline,255.28,19-Jan-20,17-Jul-20,0
+289,WIFI,Online,9.33,29-Oct-20,27-Apr-21,0
+290,WIFI,Offline,47.45,09-Aug-19,05-Feb-20,0
+291,Chargers,Offline,651.21,16-May-20,12-Nov-20,0
+292,Android Mobiles,Online,47.45,26-May-21,22-Nov-21,0
+293,SIM,Offline,651.21,01-Jul-21,28-Dec-21,0
+294,WIFI,Offline,437.2,08-Apr-21,05-Oct-21,0
+295,Android Mobiles,Offline,47.45,11-Aug-20,07-Feb-21,0
+296,SIM,Online,109.28,06-Mar-19,02-Sep-19,0
+297,Iphones,Online,9.33,18-Nov-19,16-May-20,0
+298,SIM,Offline,154.06,04-Feb-21,03-Aug-21,0
+299,Chargers,Offline,81.73,05-Feb-20,03-Aug-20,0
+300,Iphones,Online,668.27,28-May-19,24-Nov-19,0
+301,Iphones,Offline,255.28,07-Jul-19,03-Jan-20,0
+302,Chargers,Online,205.7,30-Aug-21,26-Feb-22,1
+303,Android Mobiles,Online,651.21,30-Sep-20,29-Mar-21,0
+304,WIFI,Online,9.33,11-Feb-21,10-Aug-21,0
+305,SIM,Offline,651.21,19-Nov-19,17-May-20,0
+306,WIFI,Online,255.28,22-Jul-19,18-Jan-20,0
+307,WIFI,Online,668.27,07-Jan-19,06-Jul-19,0
+308,Tablets,Offline,154.06,08-Jun-19,05-Dec-19,0
+309,WIFI,Offline,81.73,08-Jun-21,05-Dec-21,0
+310,Iphones,Online,205.7,30-Jan-19,29-Jul-19,0
+311,Android Mobiles,Offline,154.06,13-May-21,09-Nov-21,0
+312,SIM,Offline,109.28,29-Jul-20,25-Jan-21,0
+313,Tablets,Online,109.28,01-Feb-20,30-Jul-20,0
+314,WIFI,Offline,668.27,11-Nov-20,10-May-21,0
+315,Chargers,Offline,81.73,18-Jan-21,17-Jul-21,0
+316,Tablets,Offline,109.28,27-Jun-21,24-Dec-21,0
+317,SIM,Online,437.2,15-May-20,11-Nov-20,0
+318,SIM,Offline,47.45,30-Jan-21,29-Jul-21,0
+319,Android Mobiles,Online,668.27,30-Apr-20,27-Oct-20,0
+320,Chargers,Offline,421.89,31-Oct-19,28-Apr-20,0
+321,Android Mobiles,Offline,255.28,07-Aug-19,03-Feb-20,0
+322,WIFI,Offline,255.28,05-Jan-21,04-Jul-21,0
+323,WIFI,Offline,152.58,03-Aug-21,30-Jan-22,1
+324,SIM,Online,9.33,06-Feb-21,05-Aug-21,0
+325,Iphones,Offline,81.73,24-Jul-20,20-Jan-21,0
+326,Iphones,Offline,437.2,26-Nov-19,24-May-20,0
+327,Chargers,Online,9.33,17-May-20,13-Nov-20,0
+328,Android Mobiles,Offline,9.33,28-Feb-21,27-Aug-21,0
+329,Android Mobiles,Offline,47.45,02-Jan-21,01-Jul-21,0
+330,Chargers,Offline,668.27,08-Jul-20,04-Jan-21,0
+331,Iphones,Online,437.2,09-Nov-19,07-May-20,0
+332,Chargers,Online,81.73,08-Jun-20,05-Dec-20,0
+333,Chargers,Offline,651.21,20-Apr-21,17-Oct-21,0
+334,Tablets,Offline,668.27,10-May-19,06-Nov-19,0
+335,Iphones,Online,152.58,22-Feb-21,21-Aug-21,0
+336,Tablets,Offline,81.73,01-Aug-20,28-Jan-21,0
+337,Iphones,Offline,9.33,12-Nov-20,11-May-21,0
+338,Tablets,Online,421.89,11-Sep-19,09-Mar-20,0
+339,Android Mobiles,Online,651.21,01-Jun-19,28-Nov-19,0
+340,Iphones,Online,651.21,07-Jul-19,03-Jan-20,0
+341,Iphones,Offline,81.73,09-Jun-21,06-Dec-21,0
+342,WIFI,Online,437.2,03-Nov-20,02-May-21,0
+343,WIFI,Offline,205.7,28-Aug-21,24-Feb-22,1
+344,Android Mobiles,Offline,154.06,18-Mar-21,14-Sep-21,0
+345,Chargers,Offline,109.28,02-Jun-19,29-Nov-19,0
+346,Android Mobiles,Online,205.7,27-Sep-19,25-Mar-20,0
+347,Tablets,Offline,437.2,10-Jan-19,09-Jul-19,0
+348,Tablets,Online,81.73,30-Jan-19,29-Jul-19,0
+349,Chargers,Offline,109.28,08-Aug-19,04-Feb-20,0
+350,Iphones,Online,651.21,12-Jan-20,10-Jul-20,0
+351,Chargers,Offline,109.28,06-Feb-19,05-Aug-19,0
+352,Tablets,Offline,9.33,20-May-19,16-Nov-19,0
+353,Chargers,Offline,205.7,21-Apr-20,18-Oct-20,0
+354,Iphones,Offline,651.21,07-Aug-20,03-Feb-21,0
+355,Iphones,Online,9.33,29-Jan-21,28-Jul-21,0
+356,Tablets,Online,109.28,12-Jan-21,11-Jul-21,0
+357,Chargers,Online,109.28,19-Jan-21,18-Jul-21,0
+358,Android Mobiles,Online,437.2,16-Sep-21,15-Mar-22,1
+359,Chargers,Online,668.27,11-Oct-21,09-Apr-22,1
+360,Tablets,Offline,437.2,16-Feb-19,15-Aug-19,0
+361,Tablets,Offline,205.7,05-Jul-21,01-Jan-22,1
+362,Android Mobiles,Offline,255.28,11-Jul-21,07-Jan-22,1
+363,Android Mobiles,Online,651.21,11-Aug-19,07-Feb-20,0
+364,WIFI,Offline,109.28,27-May-20,23-Nov-20,0
+365,Tablets,Online,437.2,26-Jul-21,22-Jan-22,1
+366,Android Mobiles,Offline,437.2,24-Jan-20,22-Jul-20,0
+367,Chargers,Online,81.73,08-Oct-20,06-Apr-21,0
+368,SIM,Offline,109.28,18-Nov-20,17-May-21,0
+369,Android Mobiles,Offline,651.21,18-Jul-21,14-Jan-22,1
+370,Tablets,Offline,109.28,16-Apr-20,13-Oct-20,0
+371,SIM,Online,651.21,16-Jul-20,12-Jan-21,0
+372,Iphones,Offline,9.33,07-Dec-19,04-Jun-20,0
+373,SIM,Offline,47.45,15-Sep-19,13-Mar-20,0
+374,Iphones,Online,205.7,14-Jun-19,11-Dec-19,0
+375,Chargers,Offline,437.2,16-Sep-21,15-Mar-22,1
+376,Iphones,Online,668.27,23-May-20,19-Nov-20,0
+377,Tablets,Online,47.45,27-Aug-21,23-Feb-22,1
+378,SIM,Offline,154.06,14-Aug-20,10-Feb-21,0
+379,Android Mobiles,Online,255.28,17-Dec-20,15-Jun-21,0
+380,Android Mobiles,Online,437.2,21-Aug-20,17-Feb-21,0
+381,Android Mobiles,Offline,668.27,15-Oct-20,13-Apr-21,0
+382,WIFI,Online,109.28,30-Mar-21,26-Sep-21,0
+383,Tablets,Online,437.2,01-Jan-20,29-Jun-20,0
+384,SIM,Online,152.58,21-Mar-21,17-Sep-21,0
+385,Chargers,Online,154.06,16-Oct-20,14-Apr-21,0
+386,Chargers,Online,81.73,10-Dec-20,08-Jun-21,0
+387,Tablets,Online,47.45,25-Mar-19,21-Sep-19,0
+388,Android Mobiles,Offline,255.28,07-Sep-19,05-Mar-20,0
+389,Android Mobiles,Offline,9.33,18-Dec-20,16-Jun-21,0
+390,Iphones,Online,47.45,27-Mar-20,23-Sep-20,0
+391,Chargers,Offline,651.21,05-Jun-21,02-Dec-21,0
+392,SIM,Offline,47.45,15-Feb-19,14-Aug-19,0
+393,Tablets,Online,651.21,07-Aug-19,03-Feb-20,0
+394,Iphones,Online,255.28,04-Sep-19,02-Mar-20,0
+395,Android Mobiles,Offline,205.7,17-Apr-21,14-Oct-21,0
+396,Tablets,Online,651.21,05-Mar-20,01-Sep-20,0
+397,WIFI,Offline,9.33,28-May-21,24-Nov-21,0
+398,Tablets,Offline,651.21,21-Dec-19,18-Jun-20,0
+399,Iphones,Offline,255.28,05-Apr-20,02-Oct-20,0
+400,SIM,Offline,668.27,05-Jun-20,02-Dec-20,0
+401,SIM,Offline,154.06,31-May-19,27-Nov-19,0
+402,SIM,Offline,81.73,20-Feb-20,18-Aug-20,0
+403,Iphones,Offline,205.7,13-Dec-20,11-Jun-21,0
+404,Android Mobiles,Online,154.06,12-Feb-20,10-Aug-20,0
+405,Iphones,Online,109.28,04-Jan-19,03-Jul-19,0
+406,Tablets,Offline,109.28,19-May-19,15-Nov-19,0
+407,Chargers,Offline,668.27,26-Apr-19,23-Oct-19,0
+408,Android Mobiles,Offline,81.73,14-Jan-20,12-Jul-20,0
+409,Chargers,Online,109.28,22-Jun-20,19-Dec-20,0
+410,Chargers,Online,437.2,24-Feb-19,23-Aug-19,0
+411,WIFI,Offline,47.45,07-Apr-21,04-Oct-21,0
+412,SIM,Online,668.27,29-Aug-19,25-Feb-20,0
+413,Android Mobiles,Online,421.89,05-Nov-19,03-May-20,0
+414,Iphones,Online,255.28,30-Nov-19,28-May-20,0
+415,Iphones,Offline,255.28,12-May-21,08-Nov-21,0
+416,Tablets,Online,152.58,10-Jun-21,07-Dec-21,0
+417,Iphones,Online,9.33,21-May-19,17-Nov-19,0
+418,SIM,Online,81.73,29-Mar-21,25-Sep-21,0
+419,Iphones,Online,437.2,08-Jan-21,07-Jul-21,0
+420,WIFI,Online,9.33,25-Feb-19,24-Aug-19,0
+421,Iphones,Online,9.33,01-Jan-20,29-Jun-20,0
+422,Iphones,Online,47.45,04-Jul-21,31-Dec-21,0
+423,Iphones,Online,668.27,21-Feb-21,20-Aug-21,0
+424,WIFI,Offline,437.2,25-Nov-20,24-May-21,0
+425,Chargers,Online,81.73,21-Jun-20,18-Dec-20,0
+426,SIM,Offline,651.21,02-Apr-19,29-Sep-19,0
+427,Tablets,Online,668.27,30-Jan-21,29-Jul-21,0
+428,SIM,Offline,152.58,26-Sep-19,24-Mar-20,0
+429,Chargers,Online,81.73,23-Jul-21,19-Jan-22,1
+430,Chargers,Offline,9.33,02-Jun-19,29-Nov-19,0
+431,SIM,Online,421.89,05-May-20,01-Nov-20,0
+432,SIM,Offline,651.21,17-Oct-20,15-Apr-21,0
+433,WIFI,Offline,651.21,20-Aug-21,16-Feb-22,1
+434,Tablets,Offline,81.73,11-Oct-20,09-Apr-21,0
+435,SIM,Offline,437.2,11-Jul-21,07-Jan-22,1
+436,WIFI,Offline,205.7,04-Apr-21,01-Oct-21,0
+437,Chargers,Offline,154.06,05-Mar-19,01-Sep-19,0
+438,Chargers,Offline,109.28,30-Jan-21,29-Jul-21,0
+439,WIFI,Online,205.7,02-Apr-21,29-Sep-21,0
+440,Tablets,Offline,437.2,24-Mar-20,20-Sep-20,0
+441,Tablets,Offline,81.73,23-Oct-20,21-Apr-21,0
+442,WIFI,Online,109.28,18-Nov-20,17-May-21,0
+443,Chargers,Online,651.21,20-Dec-20,18-Jun-21,0
+444,SIM,Offline,109.28,02-Jun-21,29-Nov-21,0
+445,Chargers,Offline,9.33,24-Sep-19,22-Mar-20,0
+446,Android Mobiles,Offline,205.7,18-May-21,14-Nov-21,0
+447,Android Mobiles,Online,651.21,08-Mar-19,04-Sep-19,0
+448,WIFI,Online,9.33,20-Oct-20,18-Apr-21,0
+449,Iphones,Offline,109.28,07-Jan-20,05-Jul-20,0
+450,Iphones,Offline,109.28,17-Sep-21,16-Mar-22,1
+451,Android Mobiles,Offline,437.2,15-Jun-21,12-Dec-21,0
+452,Android Mobiles,Offline,668.27,27-Oct-20,25-Apr-21,0
+453,SIM,Offline,437.2,29-Jan-21,28-Jul-21,0
+454,SIM,Offline,205.7,22-Jul-21,18-Jan-22,1
+455,Chargers,Online,255.28,18-Jan-20,16-Jul-20,0
+456,Tablets,Offline,651.21,18-Jan-21,17-Jul-21,0
+457,Chargers,Online,109.28,05-Apr-19,02-Oct-19,0
+458,Tablets,Offline,437.2,01-Sep-21,28-Feb-22,1
+459,Iphones,Online,437.2,10-Sep-19,08-Mar-20,0
+460,WIFI,Offline,81.73,16-Nov-20,15-May-21,0
+461,Iphones,Online,109.28,14-Oct-21,12-Apr-22,1
+462,Chargers,Online,651.21,21-Mar-19,17-Sep-19,0
+463,Chargers,Online,109.28,26-Dec-20,24-Jun-21,0
+464,Iphones,Offline,651.21,09-Jun-20,06-Dec-20,0
+465,Iphones,Online,9.33,07-Jun-21,04-Dec-21,0
+466,Chargers,Online,47.45,27-Mar-20,23-Sep-20,0
+467,Android Mobiles,Offline,205.7,15-Oct-19,12-Apr-20,0
+468,WIFI,Offline,437.2,17-Oct-19,14-Apr-20,0
+469,Android Mobiles,Online,668.27,23-Mar-20,19-Sep-20,0
+470,Android Mobiles,Online,47.45,15-Nov-20,14-May-21,0
+471,SIM,Online,154.06,11-May-19,07-Nov-19,0
+472,Android Mobiles,Online,255.28,11-Aug-21,07-Feb-22,1
+473,Tablets,Online,437.2,03-Mar-21,30-Aug-21,0
+474,Chargers,Offline,668.27,12-Mar-20,08-Sep-20,0
+475,Android Mobiles,Offline,109.28,16-Jun-19,13-Dec-19,0
+476,WIFI,Offline,437.2,07-Dec-19,04-Jun-20,0
+477,Chargers,Offline,152.58,22-Aug-19,18-Feb-20,0
+478,Tablets,Offline,154.06,26-Apr-19,23-Oct-19,0
+479,Tablets,Online,81.73,18-Sep-19,16-Mar-20,0
+480,Tablets,Offline,47.45,20-Sep-19,18-Mar-20,0
+481,Iphones,Offline,255.28,26-Apr-20,23-Oct-20,0
+482,SIM,Online,9.33,11-Apr-21,08-Oct-21,0
+483,WIFI,Offline,47.45,08-Apr-21,05-Oct-21,0
+484,Tablets,Online,651.21,31-Mar-19,27-Sep-19,0
+485,Chargers,Online,47.45,04-Jan-19,03-Jul-19,0
+486,Iphones,Offline,651.21,31-Dec-19,28-Jun-20,0
+487,Chargers,Online,437.2,17-Jun-19,14-Dec-19,0
+488,WIFI,Offline,47.45,21-Aug-21,17-Feb-22,1
+489,SIM,Offline,109.28,19-Mar-20,15-Sep-20,0
+490,WIFI,Offline,9.33,23-Sep-19,21-Mar-20,0
+491,Chargers,Online,154.06,14-Feb-20,12-Aug-20,0
+492,Tablets,Offline,81.73,25-Oct-20,23-Apr-21,0
+493,Tablets,Online,668.27,18-Jun-19,15-Dec-19,0
+494,Iphones,Online,255.28,04-Sep-21,03-Mar-22,1
+495,WIFI,Online,205.7,16-Feb-21,15-Aug-21,0
+496,Android Mobiles,Online,651.21,04-Oct-19,01-Apr-20,0
+497,WIFI,Offline,9.33,03-Feb-21,02-Aug-21,0
+498,Tablets,Offline,651.21,27-Oct-20,25-Apr-21,0
+499,SIM,Online,255.28,08-May-19,04-Nov-19,0
+500,SIM,Offline,668.27,11-Jan-20,09-Jul-20,0
+501,Chargers,Offline,154.06,14-Apr-20,11-Oct-20,0
+502,Chargers,Online,81.73,05-May-21,01-Nov-21,0
+503,Chargers,Offline,205.7,22-Aug-19,18-Feb-20,0
+504,Tablets,Online,154.06,01-Oct-20,30-Mar-21,0
+505,WIFI,Offline,109.28,11-May-19,07-Nov-19,0
+506,SIM,Online,109.28,16-Feb-19,15-Aug-19,0
+507,Tablets,Offline,668.27,31-Dec-20,29-Jun-21,0
+508,SIM,Offline,81.73,29-Jan-20,27-Jul-20,0
+509,SIM,Online,109.28,11-Jun-19,08-Dec-19,0
+510,WIFI,Online,437.2,25-Apr-20,22-Oct-20,0
+511,SIM,Offline,47.45,07-Dec-19,04-Jun-20,0
+512,Android Mobiles,Online,668.27,29-Nov-20,28-May-21,0
+513,Tablets,Online,421.89,19-Apr-21,16-Oct-21,0
+514,Tablets,Online,255.28,10-Oct-19,07-Apr-20,0
+515,SIM,Online,255.28,08-Sep-19,06-Mar-20,0
+516,WIFI,Online,152.58,04-Aug-21,31-Jan-22,1
+517,Chargers,Offline,9.33,30-Dec-19,27-Jun-20,0
+518,Android Mobiles,Online,81.73,17-Jul-21,13-Jan-22,1
+519,Iphones,Offline,437.2,25-Nov-20,24-May-21,0
+520,Chargers,Online,9.33,07-Aug-20,03-Feb-21,0
+521,Tablets,Online,9.33,18-May-19,14-Nov-19,0
+522,Iphones,Online,47.45,17-Nov-19,15-May-20,0
+523,Android Mobiles,Offline,668.27,05-Oct-21,03-Apr-22,1
+524,Iphones,Offline,437.2,25-Jul-20,21-Jan-21,0
+525,WIFI,Online,81.73,06-Feb-19,05-Aug-19,0
+526,Tablets,Online,651.21,30-Oct-20,28-Apr-21,0
+527,SIM,Online,668.27,08-Jun-20,05-Dec-20,0
+528,Iphones,Online,152.58,20-Sep-20,19-Mar-21,0
+529,Android Mobiles,Offline,81.73,02-Feb-21,01-Aug-21,0
+530,Iphones,Offline,9.33,16-Mar-20,12-Sep-20,0
+531,Chargers,Online,421.89,11-Apr-21,08-Oct-21,0
+532,Tablets,Online,651.21,20-Apr-21,17-Oct-21,0
+533,Android Mobiles,Offline,651.21,25-Jan-20,23-Jul-20,0
+534,Iphones,Online,81.73,22-Jul-20,18-Jan-21,0
+535,SIM,Online,437.2,08-Aug-19,04-Feb-20,0
+536,Iphones,Offline,205.7,03-Feb-20,01-Aug-20,0
+537,Tablets,Online,154.06,02-Jun-20,29-Nov-20,0
+538,Chargers,Online,109.28,02-Jan-19,01-Jul-19,0
+539,Android Mobiles,Offline,205.7,16-Nov-19,14-May-20,0
+540,SIM,Online,437.2,05-Oct-21,03-Apr-22,1
+541,Iphones,Online,81.73,17-Jan-21,16-Jul-21,0
+542,Chargers,Offline,109.28,15-Jan-19,14-Jul-19,0
+543,Iphones,Online,651.21,01-Mar-19,28-Aug-19,0
+544,Android Mobiles,Offline,109.28,21-May-21,17-Nov-21,0
+545,Android Mobiles,Offline,9.33,06-Aug-21,02-Feb-22,1
+546,Chargers,Offline,205.7,03-Nov-20,02-May-21,0
+547,Iphones,Offline,651.21,19-Feb-20,17-Aug-20,0
+548,SIM,Online,9.33,01-Dec-20,30-May-21,0
+549,Chargers,Online,109.28,08-Apr-21,05-Oct-21,0
+550,WIFI,Offline,109.28,17-Feb-19,16-Aug-19,0
+551,Tablets,Offline,437.2,27-Jul-20,23-Jan-21,0
+552,Tablets,Offline,668.27,07-Aug-21,03-Feb-22,1
+553,Android Mobiles,Online,437.2,11-May-21,07-Nov-21,0
+554,Tablets,Offline,205.7,05-Jul-20,01-Jan-21,0
+555,Iphones,Online,255.28,26-May-21,22-Nov-21,0
+556,Android Mobiles,Offline,651.21,21-Oct-19,18-Apr-20,0
+557,Android Mobiles,Online,109.28,23-Jul-19,19-Jan-20,0
+558,Chargers,Offline,437.2,24-Oct-20,22-Apr-21,0
+559,Tablets,Offline,437.2,21-Mar-19,17-Sep-19,0
+560,SIM,Online,81.73,12-Jul-20,08-Jan-21,0
+561,Iphones,Offline,109.28,29-Aug-19,25-Feb-20,0
+562,Iphones,Offline,651.21,03-May-20,30-Oct-20,0
+563,SIM,Online,109.28,08-Jul-21,04-Jan-22,1
+564,Tablets,Offline,651.21,28-Jan-20,26-Jul-20,0
+565,SIM,Offline,9.33,03-Jun-20,30-Nov-20,0
+566,Tablets,Offline,47.45,28-Nov-19,26-May-20,0
+567,Chargers,Offline,205.7,12-Jan-19,11-Jul-19,0
+568,Android Mobiles,Offline,437.2,21-Apr-21,18-Oct-21,0
+569,SIM,Offline,668.27,29-Oct-19,26-Apr-20,0
+570,Android Mobiles,Offline,47.45,25-Mar-21,21-Sep-21,0
+571,WIFI,Online,154.06,11-Oct-21,09-Apr-22,1
+572,Tablets,Offline,255.28,12-Sep-21,11-Mar-22,1
+573,WIFI,Online,437.2,16-Apr-20,13-Oct-20,0
+574,Iphones,Online,668.27,16-Jan-21,15-Jul-21,0
+575,Tablets,Offline,109.28,14-Feb-19,13-Aug-19,0
+576,Android Mobiles,Online,437.2,06-Mar-19,02-Sep-19,0
+577,SIM,Offline,152.58,26-May-21,22-Nov-21,0
+578,Tablets,Online,154.06,12-Oct-20,10-Apr-21,0
+579,Chargers,Online,81.73,18-Mar-19,14-Sep-19,0
+580,WIFI,Online,47.45,25-Jul-21,21-Jan-22,1
+581,WIFI,Offline,255.28,16-Dec-20,14-Jun-21,0
+582,Chargers,Offline,9.33,30-Aug-19,26-Feb-20,0
+583,SIM,Offline,47.45,13-Mar-20,09-Sep-20,0
+584,Chargers,Offline,651.21,11-Mar-19,07-Sep-19,0
+585,Iphones,Offline,47.45,21-Jan-20,19-Jul-20,0
+586,WIFI,Offline,651.21,22-Jun-21,19-Dec-21,0
+587,Iphones,Offline,437.2,13-Nov-20,12-May-21,0
+588,Iphones,Offline,47.45,14-Mar-20,10-Sep-20,0
+589,Android Mobiles,Offline,109.28,09-May-21,05-Nov-21,0
+590,WIFI,Offline,9.33,22-Feb-20,20-Aug-20,0
+591,SIM,Online,154.06,21-Jun-19,18-Dec-19,0
+592,Chargers,Offline,81.73,13-Apr-19,10-Oct-19,0
+593,Android Mobiles,Online,668.27,13-Jun-21,10-Dec-21,0
+594,Iphones,Online,255.28,27-Mar-21,23-Sep-21,0
+595,Iphones,Offline,205.7,22-Nov-19,20-May-20,0
+596,Android Mobiles,Offline,651.21,14-Jan-19,13-Jul-19,0
+597,Tablets,Offline,9.33,28-May-21,24-Nov-21,0
+598,Iphones,Online,651.21,26-May-19,22-Nov-19,0
+599,Tablets,Offline,255.28,22-Dec-20,20-Jun-21,0
+600,Tablets,Online,668.27,28-Aug-21,24-Feb-22,1
+601,Iphones,Offline,154.06,23-Nov-20,22-May-21,0
+602,Tablets,Offline,81.73,15-Oct-20,13-Apr-21,0
+603,Android Mobiles,Offline,205.7,18-Aug-19,14-Feb-20,0
+604,Iphones,Offline,154.06,19-May-19,15-Nov-19,0
+605,Iphones,Online,109.28,29-May-21,25-Nov-21,0
+606,Tablets,Online,109.28,13-Feb-19,12-Aug-19,0
+607,WIFI,Offline,668.27,03-Oct-20,01-Apr-21,0
+608,Android Mobiles,Offline,81.73,11-Feb-21,10-Aug-21,0
+609,Tablets,Online,109.28,28-Jan-19,27-Jul-19,0
+610,WIFI,Online,437.2,19-Jul-20,15-Jan-21,0
+611,Iphones,Online,47.45,24-Oct-19,21-Apr-20,0
+612,Chargers,Online,668.27,23-Dec-20,21-Jun-21,0
+613,SIM,Offline,421.89,27-Feb-19,26-Aug-19,0
+614,WIFI,Online,255.28,14-Mar-20,10-Sep-20,0
+615,SIM,Offline,255.28,21-Mar-21,17-Sep-21,0
+616,WIFI,Online,152.58,30-Jun-20,27-Dec-20,0
+617,Iphones,Offline,9.33,29-Sep-19,27-Mar-20,0
+618,Chargers,Offline,81.73,25-Oct-19,22-Apr-20,0
+619,Android Mobiles,Offline,437.2,16-Oct-21,14-Apr-22,1
+620,SIM,Offline,9.33,18-Jul-19,14-Jan-20,0
+621,SIM,Offline,9.33,06-Nov-20,05-May-21,0
+622,WIFI,Offline,47.45,22-May-19,18-Nov-19,0
+623,Android Mobiles,Offline,668.27,01-Apr-20,28-Sep-20,0
+624,WIFI,Online,437.2,01-Jun-20,28-Nov-20,0
+625,Tablets,Offline,81.73,22-Jul-20,18-Jan-21,0
+626,Android Mobiles,Offline,651.21,29-Jul-20,25-Jan-21,0
+627,Tablets,Offline,668.27,10-Aug-20,06-Feb-21,0
+628,Android Mobiles,Offline,152.58,31-Oct-19,28-Apr-20,0
+629,Android Mobiles,Offline,81.73,18-Jul-19,14-Jan-20,0
+630,Chargers,Offline,9.33,24-Jun-19,21-Dec-19,0
+631,Android Mobiles,Offline,421.89,09-Nov-20,08-May-21,0
+632,Tablets,Offline,651.21,16-Apr-20,13-Oct-20,0
+633,SIM,Online,651.21,28-Oct-19,25-Apr-20,0
+634,Iphones,Offline,81.73,09-Nov-20,08-May-21,0
+635,Tablets,Offline,437.2,18-Jan-20,16-Jul-20,0
+636,SIM,Online,205.7,13-Sep-20,12-Mar-21,0
+637,SIM,Online,154.06,17-Aug-19,13-Feb-20,0
+638,Iphones,Online,109.28,01-Jan-21,30-Jun-21,0
+639,Android Mobiles,Online,205.7,17-Dec-20,15-Jun-21,0
+640,SIM,Offline,437.2,07-Dec-19,04-Jun-20,0
+641,SIM,Offline,81.73,11-Jul-21,07-Jan-22,1
+642,Tablets,Offline,109.28,05-Apr-19,02-Oct-19,0
+643,Android Mobiles,Offline,651.21,28-Mar-19,24-Sep-19,0
+644,Chargers,Online,109.28,21-Dec-20,19-Jun-21,0
+645,Android Mobiles,Online,9.33,28-Jan-19,27-Jul-19,0
+646,Android Mobiles,Online,205.7,16-Feb-21,15-Aug-21,0
+647,SIM,Offline,651.21,14-Nov-20,13-May-21,0
+648,Iphones,Online,9.33,25-Nov-19,23-May-20,0
+649,Tablets,Offline,109.28,17-Mar-21,13-Sep-21,0
+650,SIM,Online,109.28,08-May-19,04-Nov-19,0
+651,Chargers,Online,437.2,26-Apr-19,23-Oct-19,0
+652,Android Mobiles,Online,668.27,30-Jul-19,26-Jan-20,0
+653,Iphones,Online,437.2,20-Oct-20,18-Apr-21,0
+654,Chargers,Offline,205.7,01-Mar-19,28-Aug-19,0
+655,SIM,Offline,255.28,19-Sep-19,17-Mar-20,0
+656,SIM,Offline,651.21,14-Apr-19,11-Oct-19,0
+657,Chargers,Offline,109.28,11-Dec-20,09-Jun-21,0
+658,WIFI,Online,437.2,05-Apr-20,02-Oct-20,0
+659,SIM,Offline,437.2,01-Jan-19,30-Jun-19,0
+660,WIFI,Offline,81.73,26-Jan-21,25-Jul-21,0
+661,Iphones,Offline,109.28,18-Jun-20,15-Dec-20,0
+662,Chargers,Online,651.21,12-Jan-19,11-Jul-19,0
+663,WIFI,Online,109.28,24-Feb-20,22-Aug-20,0
+664,WIFI,Offline,651.21,20-Jun-20,17-Dec-20,0
+665,Tablets,Offline,9.33,10-Jul-21,06-Jan-22,1
+666,Chargers,Online,47.45,22-Jan-19,21-Jul-19,0
+667,Tablets,Offline,205.7,22-Oct-19,19-Apr-20,0
+668,SIM,Online,437.2,26-Oct-19,23-Apr-20,0
+669,Iphones,Online,668.27,22-Aug-19,18-Feb-20,0
+670,Chargers,Offline,47.45,16-Jul-20,12-Jan-21,0
+671,SIM,Online,154.06,30-Jun-19,27-Dec-19,0
+672,Tablets,Offline,255.28,11-Jun-20,08-Dec-20,0
+673,Iphones,Offline,437.2,28-Nov-19,26-May-20,0
+674,Iphones,Online,668.27,09-Mar-20,05-Sep-20,0
+675,SIM,Offline,109.28,07-Aug-19,03-Feb-20,0
+676,Iphones,Offline,437.2,27-Sep-19,25-Mar-20,0
+677,SIM,Online,152.58,04-Nov-19,02-May-20,0
+678,WIFI,Offline,154.06,08-Mar-20,04-Sep-20,0
+679,WIFI,Online,81.73,29-Dec-19,26-Jun-20,0
+680,SIM,Online,47.45,05-Dec-20,03-Jun-21,0
+681,WIFI,Online,255.28,07-Jul-20,03-Jan-21,0
+682,Android Mobiles,Offline,9.33,30-Jan-21,29-Jul-21,0
+683,Iphones,Online,47.45,17-Aug-20,13-Feb-21,0
+684,Tablets,Online,651.21,15-Jul-20,11-Jan-21,0
+685,Android Mobiles,Offline,47.45,28-Jan-20,26-Jul-20,0
+686,Chargers,Online,651.21,14-Feb-20,12-Aug-20,0
+687,Android Mobiles,Offline,437.2,29-Sep-19,27-Mar-20,0
+688,Iphones,Offline,47.45,13-Feb-20,11-Aug-20,0
+689,WIFI,Offline,109.28,01-Oct-19,29-Mar-20,0
+690,Iphones,Offline,9.33,15-Apr-20,12-Oct-20,0
+691,Android Mobiles,Online,154.06,18-Jul-20,14-Jan-21,0
+692,Android Mobiles,Offline,81.73,17-Dec-19,14-Jun-20,0
+693,SIM,Online,668.27,23-Apr-20,20-Oct-20,0
+694,SIM,Offline,255.28,01-Feb-20,30-Jul-20,0
+695,Android Mobiles,Offline,205.7,24-Nov-20,23-May-21,0
+696,SIM,Offline,651.21,13-May-19,09-Nov-19,0
+697,Chargers,Online,9.33,09-Oct-20,07-Apr-21,0
+698,Chargers,Online,651.21,23-Apr-21,20-Oct-21,0
+699,Chargers,Offline,255.28,28-Feb-19,27-Aug-19,0
+700,Android Mobiles,Offline,668.27,11-Jan-21,10-Jul-21,0
+701,Tablets,Online,154.06,09-Apr-19,06-Oct-19,0
+702,WIFI,Online,81.73,24-May-21,20-Nov-21,0
+703,Iphones,Online,205.7,20-Mar-21,16-Sep-21,0
+704,SIM,Online,154.06,17-Oct-21,15-Apr-22,1
+705,WIFI,Online,109.28,05-May-20,01-Nov-20,0
+706,Iphones,Online,109.28,26-May-19,22-Nov-19,0
+707,Chargers,Online,668.27,13-Nov-20,12-May-21,0
+708,Android Mobiles,Offline,81.73,17-Nov-20,16-May-21,0
+709,Android Mobiles,Online,109.28,20-Mar-21,16-Sep-21,0
+710,Tablets,Online,437.2,16-Aug-21,12-Feb-22,1
+711,Chargers,Online,47.45,04-Jul-21,31-Dec-21,0
+712,Android Mobiles,Online,668.27,23-Dec-19,20-Jun-20,0
+713,Android Mobiles,Online,421.89,16-Oct-21,14-Apr-22,1
+714,Iphones,Offline,255.28,28-Jul-21,24-Jan-22,1
+715,Iphones,Online,255.28,08-Oct-20,06-Apr-21,0
+716,SIM,Online,152.58,25-Feb-19,24-Aug-19,0
+717,WIFI,Offline,9.33,09-May-20,05-Nov-20,0
+718,WIFI,Online,81.73,28-Aug-21,24-Feb-22,1
+719,Chargers,Online,437.2,28-Jan-21,27-Jul-21,0
+720,Chargers,Online,9.33,21-Dec-19,18-Jun-20,0
+721,Iphones,Online,9.33,15-Nov-20,14-May-21,0
+722,Tablets,Online,47.45,28-May-20,24-Nov-20,0
+723,SIM,Offline,668.27,10-Jan-19,09-Jul-19,0
+724,WIFI,Online,437.2,28-May-21,24-Nov-21,0
+725,Chargers,Online,81.73,25-Oct-20,23-Apr-21,0
+726,Chargers,Online,651.21,26-Feb-20,24-Aug-20,0
+727,Iphones,Online,668.27,03-Nov-20,02-May-21,0
+728,SIM,Offline,152.58,16-May-20,12-Nov-20,0
+729,SIM,Online,81.73,16-Dec-20,14-Jun-21,0
+730,SIM,Online,9.33,19-May-20,15-Nov-20,0
+731,Iphones,Online,421.89,05-Mar-19,01-Sep-19,0
+732,Iphones,Offline,651.21,06-Nov-19,04-May-20,0
+733,SIM,Online,651.21,25-Nov-19,23-May-20,0
+734,SIM,Online,81.73,25-Sep-19,23-Mar-20,0
+735,WIFI,Offline,437.2,28-Sep-19,26-Mar-20,0
+736,Chargers,Offline,205.7,24-Apr-21,21-Oct-21,0
+737,Tablets,Online,154.06,10-Jun-21,07-Dec-21,0
+738,Android Mobiles,Online,109.28,14-Oct-20,12-Apr-21,0
+739,Tablets,Offline,205.7,02-Jul-21,29-Dec-21,0
+740,Tablets,Offline,437.2,27-Mar-20,23-Sep-20,0
+741,Android Mobiles,Offline,81.73,21-Jan-21,20-Jul-21,0
+742,WIFI,Offline,109.28,02-Jan-21,01-Jul-21,0
+743,Chargers,Offline,651.21,30-Jul-19,26-Jan-20,0
+744,SIM,Offline,109.28,18-Mar-19,14-Sep-19,0
+745,Iphones,Offline,9.33,20-Oct-19,17-Apr-20,0
+746,Android Mobiles,Online,205.7,13-Aug-19,09-Feb-20,0
+747,Android Mobiles,Offline,651.21,06-Oct-21,04-Apr-22,1
+748,Chargers,Offline,9.33,26-Oct-19,23-Apr-20,0
+749,Android Mobiles,Offline,109.28,03-Jul-19,30-Dec-19,0
+750,Tablets,Offline,109.28,09-Jan-19,08-Jul-19,0
+751,Iphones,Offline,437.2,04-Apr-21,01-Oct-21,0
+752,Tablets,Online,668.27,21-Aug-20,17-Feb-21,0
+753,Chargers,Online,437.2,20-Mar-19,16-Sep-19,0
+754,Tablets,Offline,205.7,27-Nov-20,26-May-21,0
+755,Chargers,Offline,255.28,18-Feb-19,17-Aug-19,0
+756,SIM,Online,651.21,01-Mar-21,28-Aug-21,0
+757,Tablets,Online,109.28,15-Aug-21,11-Feb-22,1
+758,SIM,Online,437.2,26-Dec-19,23-Jun-20,0
+759,WIFI,Online,437.2,10-Jun-19,07-Dec-19,0
+760,Iphones,Online,81.73,20-Mar-20,16-Sep-20,0
+761,Tablets,Online,109.28,20-Jun-21,17-Dec-21,0
+762,Chargers,Offline,651.21,07-Nov-19,05-May-20,0
+763,WIFI,Offline,109.28,20-Feb-19,19-Aug-19,0
+764,Chargers,Online,651.21,23-Jun-21,20-Dec-21,0
+765,Iphones,Offline,9.33,17-Jun-19,14-Dec-19,0
+766,Chargers,Offline,47.45,22-Sep-20,21-Mar-21,0
+767,Iphones,Online,205.7,23-Apr-20,20-Oct-20,0
+768,SIM,Online,437.2,28-May-20,24-Nov-20,0
+769,Android Mobiles,Online,668.27,19-Jun-19,16-Dec-19,0
+770,Chargers,Online,47.45,24-Feb-20,22-Aug-20,0
+771,Iphones,Online,154.06,22-Feb-19,21-Aug-19,0
+772,Android Mobiles,Online,255.28,07-Sep-19,05-Mar-20,0
+773,WIFI,Online,437.2,02-Apr-19,29-Sep-19,0
+774,WIFI,Online,668.27,24-Aug-19,20-Feb-20,0
+775,WIFI,Online,109.28,05-Nov-19,03-May-20,0
+776,Tablets,Online,437.2,30-Sep-21,29-Mar-22,1
+777,Tablets,Online,152.58,01-Oct-19,29-Mar-20,0
+778,WIFI,Online,154.06,02-Aug-19,29-Jan-20,0
+779,Chargers,Offline,81.73,21-Jul-20,17-Jan-21,0
+780,Iphones,Online,47.45,12-Feb-19,11-Aug-19,0
+781,WIFI,Online,255.28,05-Aug-21,01-Feb-22,1
+782,Android Mobiles,Online,9.33,30-Dec-19,27-Jun-20,0
+783,Android Mobiles,Online,47.45,13-Feb-20,11-Aug-20,0
+784,Android Mobiles,Online,651.21,27-Dec-19,24-Jun-20,0
+785,WIFI,Online,47.45,27-Aug-19,23-Feb-20,0
+786,WIFI,Offline,651.21,16-Oct-21,14-Apr-22,1
+787,Android Mobiles,Offline,437.2,24-Aug-19,20-Feb-20,0
+788,SIM,Online,47.45,30-Jun-21,27-Dec-21,0
+789,Android Mobiles,Offline,109.28,29-Sep-19,27-Mar-20,0
+790,SIM,Online,9.33,14-Nov-20,13-May-21,0
+791,Iphones,Online,154.06,20-Nov-19,18-May-20,0
+792,Iphones,Online,81.73,23-Oct-20,21-Apr-21,0
+793,WIFI,Online,668.27,16-Mar-20,12-Sep-20,0
+794,Iphones,Offline,255.28,19-Jul-21,15-Jan-22,1
+795,SIM,Online,205.7,04-Jul-19,31-Dec-19,0
+796,Android Mobiles,Online,651.21,12-Mar-20,08-Sep-20,0
+797,SIM,Offline,9.33,07-Jun-20,04-Dec-20,0
+798,WIFI,Online,651.21,06-Oct-20,04-Apr-21,0
+799,Chargers,Online,255.28,09-Mar-20,05-Sep-20,0
+800,WIFI,Online,668.27,30-Apr-19,27-Oct-19,0
+801,Android Mobiles,Offline,154.06,20-Jan-19,19-Jul-19,0
+802,WIFI,Online,81.73,14-Nov-19,12-May-20,0
+803,Iphones,Online,205.7,14-Oct-20,12-Apr-21,0
+804,Iphones,Online,154.06,03-Nov-19,01-May-20,0
+805,Chargers,Online,109.28,16-Jul-19,12-Jan-20,0
+806,Android Mobiles,Online,109.28,29-May-20,25-Nov-20,0
+807,WIFI,Offline,668.27,05-Aug-19,01-Feb-20,0
+808,Chargers,Offline,81.73,06-Oct-20,04-Apr-21,0
+809,Iphones,Offline,109.28,23-Mar-21,19-Sep-21,0
+810,Tablets,Online,437.2,06-Dec-19,03-Jun-20,0
+811,WIFI,Offline,47.45,04-Dec-19,01-Jun-20,0
+812,Tablets,Online,668.27,03-Aug-21,30-Jan-22,1
+813,Iphones,Offline,421.89,01-Aug-21,28-Jan-22,1
+814,WIFI,Offline,255.28,03-Jun-21,30-Nov-21,0
+815,Tablets,Offline,255.28,28-Dec-20,26-Jun-21,0
+816,WIFI,Offline,152.58,03-Mar-20,30-Aug-20,0
+817,Iphones,Offline,9.33,22-Sep-21,21-Mar-22,1
+818,Tablets,Online,81.73,26-Dec-19,23-Jun-20,0
+819,Android Mobiles,Online,437.2,05-Jan-21,04-Jul-21,0
+820,SIM,Offline,9.33,17-Jun-19,14-Dec-19,0
+821,WIFI,Offline,9.33,28-Sep-20,27-Mar-21,0
+822,Iphones,Online,47.45,28-Aug-19,24-Feb-20,0
+823,Tablets,Offline,668.27,27-Feb-20,25-Aug-20,0
+824,Tablets,Online,437.2,23-Feb-21,22-Aug-21,0
+825,Chargers,Offline,81.73,10-May-20,06-Nov-20,0
+826,Tablets,Online,651.21,10-Oct-19,07-Apr-20,0
+827,SIM,Offline,668.27,03-Nov-20,02-May-21,0
+828,Chargers,Offline,152.58,29-Dec-19,26-Jun-20,0
+829,WIFI,Online,81.73,08-Jun-21,05-Dec-21,0
+830,Chargers,Online,9.33,29-Jan-21,28-Jul-21,0
+831,Tablets,Offline,421.89,16-Jul-21,12-Jan-22,1
+832,Tablets,Online,651.21,17-Feb-21,16-Aug-21,0
+833,Android Mobiles,Online,651.21,13-Aug-21,09-Feb-22,1
+834,WIFI,Offline,81.73,30-May-21,26-Nov-21,0
+835,Android Mobiles,Offline,437.2,09-Feb-19,08-Aug-19,0
+836,SIM,Online,205.7,05-Mar-21,01-Sep-21,0
+837,WIFI,Offline,154.06,01-May-20,28-Oct-20,0
+838,Iphones,Online,109.28,03-Mar-19,30-Aug-19,0
+839,Iphones,Offline,205.7,18-Jun-19,15-Dec-19,0
+840,WIFI,Online,437.2,01-Mar-21,28-Aug-21,0
+841,Tablets,Offline,81.73,04-Nov-20,03-May-21,0
+842,Android Mobiles,Online,109.28,17-Jul-21,13-Jan-22,1
+843,Android Mobiles,Offline,651.21,27-Dec-19,24-Jun-20,0
+844,Android Mobiles,Online,109.28,20-Nov-20,19-May-21,0
+845,SIM,Online,9.33,14-May-20,10-Nov-20,0
+846,Chargers,Online,205.7,08-Jan-19,07-Jul-19,0
+847,Chargers,Offline,651.21,03-Jun-19,30-Nov-19,0
+848,Tablets,Online,9.33,13-Oct-19,10-Apr-20,0
+849,Android Mobiles,Offline,109.28,01-Oct-21,30-Mar-22,1
+850,SIM,Online,109.28,23-Jan-20,21-Jul-20,0
+851,WIFI,Offline,437.2,27-Sep-21,26-Mar-22,1
+852,WIFI,Offline,668.27,12-Sep-19,10-Mar-20,0
+853,Iphones,Online,437.2,18-Jul-20,14-Jan-21,0
+854,Iphones,Offline,205.7,19-Oct-19,16-Apr-20,0
+855,SIM,Online,255.28,03-Apr-19,30-Sep-19,0
+856,WIFI,Offline,651.21,17-Nov-20,16-May-21,0
+857,SIM,Online,109.28,16-Apr-21,13-Oct-21,0
+858,SIM,Offline,437.2,25-Jun-19,22-Dec-19,0
+859,Tablets,Online,437.2,26-Mar-21,22-Sep-21,0
+860,Tablets,Offline,81.73,21-Sep-19,19-Mar-20,0
+861,Chargers,Online,109.28,26-Apr-20,23-Oct-20,0
+862,Chargers,Online,651.21,07-Oct-19,04-Apr-20,0
+863,Android Mobiles,Online,109.28,22-Jun-19,19-Dec-19,0
+864,Chargers,Offline,651.21,23-Oct-20,21-Apr-21,0
+865,Tablets,Online,9.33,22-Jan-20,20-Jul-20,0
+866,Android Mobiles,Offline,47.45,09-May-19,05-Nov-19,0
+867,Chargers,Online,205.7,17-Sep-20,16-Mar-21,0
+868,Chargers,Offline,437.2,14-Apr-20,11-Oct-20,0
+869,Tablets,Online,668.27,10-Aug-19,06-Feb-20,0
+870,WIFI,Online,47.45,16-Jun-19,13-Dec-19,0
+871,Chargers,Online,154.06,23-Jun-19,20-Dec-19,0
+872,Tablets,Online,255.28,16-Apr-19,13-Oct-19,0
+873,SIM,Online,437.2,13-Mar-20,09-Sep-20,0
+874,Iphones,Offline,668.27,26-Aug-19,22-Feb-20,0
+875,SIM,Offline,109.28,05-Oct-21,03-Apr-22,1
+876,Android Mobiles,Offline,437.2,31-Jan-19,30-Jul-19,0
+877,WIFI,Online,152.58,05-Oct-19,02-Apr-20,0
+878,SIM,Offline,154.06,17-Mar-21,13-Sep-21,0
+879,SIM,Online,81.73,19-Mar-20,15-Sep-20,0
+880,SIM,Offline,47.45,18-Oct-21,16-Apr-22,1
+881,WIFI,Online,255.28,19-Aug-19,15-Feb-20,0
+882,Android Mobiles,Online,9.33,31-Aug-19,27-Feb-20,0
+883,Tablets,Online,47.45,21-Aug-20,17-Feb-21,0
+884,Android Mobiles,Offline,651.21,25-Dec-19,22-Jun-20,0
+885,SIM,Online,47.45,02-Apr-21,29-Sep-21,0
+886,Tablets,Offline,651.21,02-Jul-20,29-Dec-20,0
+887,Chargers,Offline,437.2,23-Nov-19,21-May-20,0
+888,Chargers,Offline,47.45,10-Jul-19,06-Jan-20,0
+889,Chargers,Offline,109.28,04-May-19,31-Oct-19,0
+890,Tablets,Online,9.33,09-Jul-20,05-Jan-21,0
+891,Chargers,Online,154.06,08-Mar-21,04-Sep-21,0
+892,SIM,Offline,81.73,01-Jun-21,28-Nov-21,0
+893,WIFI,Offline,668.27,06-Mar-19,02-Sep-19,0
+894,Android Mobiles,Offline,255.28,22-Dec-20,20-Jun-21,0
+895,WIFI,Online,205.7,01-May-21,28-Oct-21,0
+896,Tablets,Online,651.21,20-Jun-19,17-Dec-19,0
+897,WIFI,Online,9.33,04-Jun-19,01-Dec-19,0
+898,Android Mobiles,Online,651.21,11-Jan-19,10-Jul-19,0
+899,SIM,Online,255.28,25-Jun-21,22-Dec-21,0
+900,Tablets,Offline,668.27,11-Apr-21,08-Oct-21,0
+901,Iphones,Offline,154.06,13-Jan-21,12-Jul-21,0
+902,Iphones,Offline,81.73,14-Jul-21,10-Jan-22,1
+903,Android Mobiles,Online,205.7,20-Oct-20,18-Apr-21,0
+904,Android Mobiles,Online,154.06,22-Jun-19,19-Dec-19,0
+905,WIFI,Offline,109.28,26-Oct-20,24-Apr-21,0
+906,Iphones,Online,109.28,03-Oct-20,01-Apr-21,0
+907,Android Mobiles,Offline,668.27,20-Mar-20,16-Sep-20,0
+908,Chargers,Offline,81.73,09-Mar-21,05-Sep-21,0
+909,SIM,Offline,109.28,07-Jul-20,03-Jan-21,0
+910,Android Mobiles,Offline,437.2,17-May-21,13-Nov-21,0
+911,Tablets,Offline,47.45,26-Nov-20,25-May-21,0
+912,Iphones,Online,668.27,21-Jul-19,17-Jan-20,0
+913,Android Mobiles,Offline,421.89,21-Oct-19,18-Apr-20,0
+914,Chargers,Offline,255.28,03-Apr-21,30-Sep-21,0
+915,Iphones,Online,255.28,17-Dec-19,14-Jun-20,0
+916,WIFI,Offline,152.58,28-Dec-20,26-Jun-21,0
+917,Chargers,Offline,9.33,13-Jun-21,10-Dec-21,0
+918,SIM,Offline,81.73,05-Feb-20,03-Aug-20,0
+919,SIM,Online,437.2,28-Apr-20,25-Oct-20,0
+920,Iphones,Online,9.33,13-Feb-19,12-Aug-19,0
+921,SIM,Offline,9.33,23-Apr-21,20-Oct-21,0
+922,Android Mobiles,Online,47.45,16-May-21,12-Nov-21,0
+923,WIFI,Online,668.27,08-Jul-20,04-Jan-21,0
+924,Android Mobiles,Offline,437.2,23-Jun-19,20-Dec-19,0
+925,Tablets,Offline,81.73,30-Aug-19,26-Feb-20,0
+926,Android Mobiles,Offline,651.21,23-Aug-19,19-Feb-20,0
+927,SIM,Online,668.27,05-Jan-20,03-Jul-20,0
+928,Android Mobiles,Offline,152.58,03-Oct-21,01-Apr-22,1
+929,Tablets,Online,81.73,15-May-20,11-Nov-20,0
+930,Android Mobiles,Online,9.33,22-Sep-19,20-Mar-20,0
+931,Iphones,Offline,421.89,15-May-20,11-Nov-20,0
+932,Iphones,Offline,651.21,11-Jul-20,07-Jan-21,0
+933,Tablets,Offline,651.21,27-Aug-21,23-Feb-22,1
+934,Iphones,Online,81.73,07-May-21,03-Nov-21,0
+935,Iphones,Online,437.2,01-Jan-19,30-Jun-19,0
+936,SIM,Online,205.7,23-Mar-19,19-Sep-19,0
+937,Chargers,Offline,154.06,18-Dec-20,16-Jun-21,0
+938,Chargers,Offline,109.28,14-Oct-21,12-Apr-22,1
+939,Tablets,Online,205.7,22-Jul-21,18-Jan-22,1
+940,Android Mobiles,Offline,437.2,07-Jul-19,03-Jan-20,0
+941,Iphones,Online,81.73,28-Jan-21,27-Jul-21,0
+942,Chargers,Offline,109.28,12-Jul-19,08-Jan-20,0
+943,SIM,Offline,651.21,28-Feb-20,26-Aug-20,0
+944,WIFI,Online,109.28,20-Mar-20,16-Sep-20,0
+945,Chargers,Offline,9.33,18-May-21,14-Nov-21,0
+946,SIM,Offline,205.7,03-Sep-20,02-Mar-21,0
+947,Android Mobiles,Online,651.21,13-Jan-20,11-Jul-20,0
+948,Tablets,Offline,9.33,03-May-20,30-Oct-20,0
+949,WIFI,Offline,109.28,15-Mar-20,11-Sep-20,0
+950,Tablets,Online,109.28,28-Oct-20,26-Apr-21,0
+951,Iphones,Offline,437.2,04-Jul-20,31-Dec-20,0
+952,SIM,Online,668.27,22-Sep-21,21-Mar-22,1
+953,WIFI,Offline,437.2,04-Jan-21,03-Jul-21,0
+954,Android Mobiles,Offline,205.7,08-May-19,04-Nov-19,0
+955,Tablets,Offline,255.28,12-Apr-19,09-Oct-19,0
+956,Tablets,Offline,651.21,22-Aug-21,18-Feb-22,1
+957,Tablets,Online,109.28,30-Jun-20,27-Dec-20,0
+958,WIFI,Offline,437.2,01-Feb-20,30-Jul-20,0
+959,WIFI,Offline,437.2,10-Sep-20,09-Mar-21,0
+960,Iphones,Offline,81.73,25-Jun-19,22-Dec-19,0
+961,Iphones,Offline,109.28,21-Dec-20,19-Jun-21,0
+962,SIM,Online,651.21,02-Nov-20,01-May-21,0
+963,WIFI,Online,109.28,22-Oct-19,19-Apr-20,0
+964,Iphones,Offline,651.21,17-Sep-20,16-Mar-21,0
+965,Tablets,Offline,9.33,07-Apr-20,04-Oct-20,0
+966,Android Mobiles,Online,47.45,10-Feb-21,09-Aug-21,0
+967,WIFI,Online,205.7,28-Apr-20,25-Oct-20,0
+968,Chargers,Online,437.2,04-Jun-21,01-Dec-21,0
+969,Iphones,Offline,668.27,13-May-20,09-Nov-20,0
+970,Android Mobiles,Offline,47.45,01-Jul-19,28-Dec-19,0
+971,Android Mobiles,Online,154.06,22-Aug-20,18-Feb-21,0
+972,Android Mobiles,Online,255.28,04-Jul-20,31-Dec-20,0
+973,Tablets,Offline,437.2,20-Jan-20,18-Jul-20,0
+974,SIM,Online,668.27,02-Oct-20,31-Mar-21,0
+975,Android Mobiles,Offline,109.28,26-Aug-21,22-Feb-22,1
+976,Iphones,Offline,437.2,11-Oct-21,09-Apr-22,1
+977,Chargers,Online,152.58,27-Jan-21,26-Jul-21,0
+978,SIM,Online,154.06,13-May-19,09-Nov-19,0
+979,Chargers,Online,81.73,13-Aug-21,09-Feb-22,1
+980,Tablets,Online,47.45,01-Sep-21,28-Feb-22,1
+981,Android Mobiles,Offline,255.28,27-May-20,23-Nov-20,0
+982,Android Mobiles,Online,9.33,22-Jan-21,21-Jul-21,0
+983,Android Mobiles,Online,47.45,17-Jan-21,16-Jul-21,0
+984,Tablets,Offline,651.21,19-Feb-19,18-Aug-19,0
+985,Tablets,Online,47.45,22-Dec-19,19-Jun-20,0
+986,WIFI,Offline,651.21,26-Oct-20,24-Apr-21,0
+987,Chargers,Online,437.2,30-Sep-20,29-Mar-21,0
+988,Iphones,Online,47.45,04-Feb-20,02-Aug-20,0
+989,WIFI,Offline,109.28,03-Apr-19,30-Sep-19,0
+990,Tablets,Online,9.33,17-Aug-21,13-Feb-22,1
+991,WIFI,Offline,154.06,22-May-19,18-Nov-19,0
+992,Tablets,Online,81.73,03-Mar-19,30-Aug-19,0
+993,WIFI,Offline,668.27,06-Aug-19,02-Feb-20,0
+994,Android Mobiles,Online,255.28,18-Jul-19,14-Jan-20,0
+995,Iphones,Offline,205.7,09-May-20,05-Nov-20,0
+996,WIFI,Offline,651.21,21-Dec-20,19-Jun-21,0
+997,WIFI,Offline,9.33,08-Jun-21,05-Dec-21,0
+998,Chargers,Online,651.21,18-Aug-21,14-Feb-22,1
+999,Tablets,Online,255.28,01-Sep-19,28-Feb-20,0
+1000,SIM,Offline,668.27,14-Sep-21,13-Mar-22,1
+1001,SIM,Offline,154.06,01-Jan-19,30-Jun-19,0
+1002,Chargers,Offline,81.73,21-Aug-21,17-Feb-22,1
+1003,Tablets,Online,205.7,15-Dec-19,12-Jun-20,0
+1004,Iphones,Online,154.06,19-Sep-21,18-Mar-22,1
+1005,Android Mobiles,Offline,109.28,01-Oct-20,30-Mar-21,0
+1006,Iphones,Online,109.28,26-Apr-19,23-Oct-19,0
+1007,WIFI,Online,668.27,18-Jan-21,17-Jul-21,0
+1008,Android Mobiles,Online,81.73,06-Oct-19,03-Apr-20,0
+1009,Android Mobiles,Offline,109.28,05-Jul-20,01-Jan-21,0
+1010,WIFI,Offline,437.2,13-May-21,09-Nov-21,0
+1011,WIFI,Online,47.45,24-Feb-19,23-Aug-19,0
+1012,Tablets,Online,668.27,19-Oct-20,17-Apr-21,0
+1013,WIFI,Offline,421.89,16-Sep-20,15-Mar-21,0
+1014,Iphones,Offline,255.28,23-Jul-19,19-Jan-20,0
+1015,Iphones,Online,255.28,15-Sep-21,14-Mar-22,1
+1016,Tablets,Offline,152.58,21-Sep-19,19-Mar-20,0
+1017,Android Mobiles,Offline,9.33,12-May-19,08-Nov-19,0
+1018,Chargers,Offline,81.73,21-Jul-21,17-Jan-22,1
+1019,SIM,Offline,437.2,19-Sep-21,18-Mar-22,1
+1020,Chargers,Online,9.33,24-Sep-20,23-Mar-21,0
+1021,Iphones,Online,9.33,21-Sep-19,19-Mar-20,0
+1022,SIM,Online,47.45,02-Oct-19,30-Mar-20,0
+1023,Android Mobiles,Offline,668.27,02-Apr-21,29-Sep-21,0
+1024,SIM,Online,437.2,30-Dec-20,28-Jun-21,0
+1025,SIM,Online,81.73,01-Aug-20,28-Jan-21,0
+1026,WIFI,Offline,651.21,12-Jan-21,11-Jul-21,0
+1027,Chargers,Offline,668.27,10-Jul-20,06-Jan-21,0
+1028,Tablets,Online,152.58,21-Jan-19,20-Jul-19,0
+1029,Iphones,Online,81.73,18-Jan-21,17-Jul-21,0
+1030,SIM,Offline,9.33,26-Nov-19,24-May-20,0
+1031,Iphones,Offline,421.89,27-Feb-20,25-Aug-20,0
+1032,WIFI,Online,651.21,02-Jun-20,29-Nov-20,0
+1033,Iphones,Offline,651.21,06-May-19,02-Nov-19,0
+1034,Android Mobiles,Online,81.73,13-Oct-21,11-Apr-22,1
+1035,Iphones,Online,437.2,17-Feb-19,16-Aug-19,0
+1036,Iphones,Offline,205.7,16-Dec-19,13-Jun-20,0
+1037,Chargers,Online,154.06,09-Aug-21,05-Feb-22,1
+1038,Iphones,Online,109.28,17-Jun-21,14-Dec-21,0
+1039,WIFI,Offline,205.7,21-Feb-21,20-Aug-21,0
+1040,Tablets,Online,437.2,05-Sep-20,04-Mar-21,0
+1041,SIM,Online,81.73,18-Apr-19,15-Oct-19,0
+1042,WIFI,Online,109.28,06-Mar-20,02-Sep-20,0
+1043,SIM,Online,651.21,10-Jan-19,09-Jul-19,0
+1044,WIFI,Online,109.28,29-Aug-20,25-Feb-21,0
+1045,Tablets,Online,9.33,15-Aug-19,11-Feb-20,0
+1046,Iphones,Online,205.7,28-Jul-20,24-Jan-21,0
+1047,Iphones,Offline,651.21,08-Dec-19,05-Jun-20,0
+1048,Iphones,Online,9.33,25-Sep-20,24-Mar-21,0
+1049,Chargers,Offline,109.28,20-Mar-21,16-Sep-21,0
+1050,Chargers,Offline,109.28,25-Apr-19,22-Oct-19,0
+1051,Android Mobiles,Offline,437.2,20-Apr-20,17-Oct-20,0
+1052,Tablets,Offline,668.27,15-Jun-21,12-Dec-21,0
+1053,SIM,Offline,437.2,20-May-20,16-Nov-20,0
+1054,WIFI,Offline,205.7,23-Mar-20,19-Sep-20,0
+1055,SIM,Offline,255.28,20-Mar-21,16-Sep-21,0
+1056,Chargers,Offline,651.21,03-Jul-21,30-Dec-21,0
+1057,Chargers,Offline,109.28,05-Jun-20,02-Dec-20,0
+1058,WIFI,Online,437.2,20-Sep-20,19-Mar-21,0
+1059,Tablets,Online,437.2,01-Oct-21,30-Mar-22,1
+1060,Tablets,Offline,81.73,13-Nov-19,11-May-20,0
+1061,Iphones,Online,109.28,19-Sep-19,17-Mar-20,0
+1062,SIM,Online,651.21,16-Feb-20,14-Aug-20,0
+1063,WIFI,Offline,109.28,01-Mar-20,28-Aug-20,0
+1064,Tablets,Online,651.21,20-Sep-19,18-Mar-20,0
+1065,WIFI,Online,9.33,30-Jul-20,26-Jan-21,0
+1066,SIM,Offline,47.45,17-Nov-19,15-May-20,0
+1067,Iphones,Offline,205.7,06-Jul-21,02-Jan-22,1
+1068,WIFI,Online,437.2,11-Apr-20,08-Oct-20,0
+1069,Tablets,Online,668.27,30-Dec-20,28-Jun-21,0
+1070,Chargers,Online,47.45,09-Jul-19,05-Jan-20,0
+1071,SIM,Online,154.06,03-Mar-21,30-Aug-21,0
+1072,Iphones,Online,255.28,09-Apr-20,06-Oct-20,0
+1073,Chargers,Online,437.2,11-Nov-20,10-May-21,0
+1074,Iphones,Online,668.27,19-Nov-20,18-May-21,0
+1075,Android Mobiles,Online,109.28,24-Sep-19,22-Mar-20,0
+1076,Tablets,Offline,437.2,10-Dec-20,08-Jun-21,0
+1077,Android Mobiles,Online,152.58,25-Apr-20,22-Oct-20,0
+1078,Android Mobiles,Online,154.06,29-Jul-19,25-Jan-20,0
+1079,Android Mobiles,Offline,81.73,26-Aug-21,22-Feb-22,1
+1080,Iphones,Offline,47.45,28-Dec-19,25-Jun-20,0
+1081,Tablets,Offline,255.28,02-Apr-21,29-Sep-21,0
+1082,Iphones,Online,9.33,29-Apr-19,26-Oct-19,0
+1083,Iphones,Online,47.45,05-Feb-21,04-Aug-21,0
+1084,Android Mobiles,Offline,651.21,14-Feb-19,13-Aug-19,0
+1085,SIM,Offline,47.45,24-Sep-21,23-Mar-22,1
+1086,Tablets,Online,651.21,11-Sep-19,09-Mar-20,0
+1087,WIFI,Online,437.2,15-Mar-19,11-Sep-19,0
+1088,Tablets,Offline,47.45,11-Aug-20,07-Feb-21,0
+1089,SIM,Offline,109.28,07-Sep-21,06-Mar-22,1
+1090,WIFI,Online,9.33,23-May-20,19-Nov-20,0
+1091,Android Mobiles,Offline,154.06,14-Jan-19,13-Jul-19,0
+1092,Tablets,Offline,81.73,02-Apr-19,29-Sep-19,0
+1093,Android Mobiles,Offline,668.27,10-May-19,06-Nov-19,0
+1094,Iphones,Online,255.28,03-Apr-20,30-Sep-20,0
+1095,Chargers,Offline,205.7,26-Jan-19,25-Jul-19,0
+1096,Chargers,Online,651.21,14-Oct-20,12-Apr-21,0
+1097,Tablets,Offline,9.33,27-Mar-21,23-Sep-21,0
+1098,Iphones,Offline,651.21,10-Sep-21,09-Mar-22,1
+1099,Iphones,Online,255.28,14-May-20,10-Nov-20,0
+1100,Tablets,Online,668.27,22-Dec-20,20-Jun-21,0
+1101,SIM,Online,154.06,23-Jul-21,19-Jan-22,1
+1102,Android Mobiles,Offline,81.73,07-Mar-21,03-Sep-21,0
+1103,Android Mobiles,Offline,205.7,14-Jul-21,10-Jan-22,1
+1104,Tablets,Offline,154.06,24-Feb-21,23-Aug-21,0
+1105,Iphones,Offline,109.28,06-Jan-19,05-Jul-19,0
+1106,SIM,Online,109.28,31-Jul-19,27-Jan-20,0
+1107,SIM,Offline,668.27,19-Feb-21,18-Aug-21,0
+1108,WIFI,Online,81.73,23-Jul-20,19-Jan-21,0
+1109,Tablets,Offline,109.28,02-Jan-20,30-Jun-20,0
+1110,Chargers,Online,437.2,05-Apr-19,02-Oct-19,0
+1111,Android Mobiles,Online,47.45,21-Jan-21,20-Jul-21,0
+1112,SIM,Online,668.27,19-Jun-21,16-Dec-21,0
+1113,Iphones,Online,421.89,16-Aug-19,12-Feb-20,0
+1114,WIFI,Online,255.28,09-Feb-20,07-Aug-20,0
+1115,SIM,Offline,255.28,16-Jul-21,12-Jan-22,1
+1116,WIFI,Offline,152.58,31-Dec-19,28-Jun-20,0
+1117,Chargers,Online,9.33,03-Mar-21,30-Aug-21,0
+1118,SIM,Online,81.73,08-Mar-20,04-Sep-20,0
+1119,Tablets,Online,437.2,27-Jun-19,24-Dec-19,0
+1120,WIFI,Offline,9.33,09-Aug-20,05-Feb-21,0
+1121,Android Mobiles,Online,9.33,28-Aug-19,24-Feb-20,0
+1122,Tablets,Offline,47.45,15-Nov-19,13-May-20,0
+1123,WIFI,Offline,668.27,07-Apr-21,04-Oct-21,0
+1124,Tablets,Online,437.2,02-Dec-19,30-May-20,0
+1125,Tablets,Online,81.73,22-Jul-20,18-Jan-21,0
+1126,Tablets,Online,651.21,26-Mar-21,22-Sep-21,0
+1127,Chargers,Offline,668.27,30-Apr-21,27-Oct-21,0
+1128,Chargers,Online,152.58,28-Feb-19,27-Aug-19,0
+1129,Tablets,Online,81.73,27-Mar-20,23-Sep-20,0
+1130,Chargers,Offline,9.33,25-Mar-21,21-Sep-21,0
+1131,WIFI,Offline,421.89,18-Jun-21,15-Dec-21,0
+1132,Chargers,Offline,651.21,01-Dec-20,30-May-21,0
+1133,Android Mobiles,Online,651.21,19-Jun-21,16-Dec-21,0
+1134,Android Mobiles,Offline,81.73,29-Nov-19,27-May-20,0
+1135,SIM,Online,437.2,15-Aug-20,11-Feb-21,0
+1136,Tablets,Online,205.7,19-Jun-21,16-Dec-21,0
+1137,Chargers,Offline,154.06,26-Apr-21,23-Oct-21,0
+1138,Tablets,Offline,109.28,08-Jan-21,07-Jul-21,0
+1139,Android Mobiles,Offline,205.7,28-Mar-21,24-Sep-21,0
+1140,Tablets,Offline,437.2,14-Apr-21,11-Oct-21,0
+1141,Tablets,Offline,81.73,15-Sep-21,14-Mar-22,1
+1142,Android Mobiles,Online,109.28,14-Jun-20,11-Dec-20,0
+1143,Iphones,Online,651.21,24-Nov-20,23-May-21,0
+1144,Tablets,Offline,109.28,25-Sep-21,24-Mar-22,1
+1145,WIFI,Offline,9.33,07-Nov-19,05-May-20,0
+1146,Chargers,Online,205.7,29-Apr-21,26-Oct-21,0
+1147,Iphones,Online,651.21,01-Aug-21,28-Jan-22,1
+1148,Tablets,Online,9.33,05-Feb-21,04-Aug-21,0
+1149,SIM,Offline,109.28,24-Oct-20,22-Apr-21,0
+1150,Tablets,Online,109.28,24-Jun-21,21-Dec-21,0
+1151,SIM,Online,437.2,10-Oct-20,08-Apr-21,0
+1152,WIFI,Offline,668.27,22-Jun-20,19-Dec-20,0
+1153,WIFI,Online,437.2,02-Sep-21,01-Mar-22,1
+1154,Android Mobiles,Offline,205.7,04-Apr-21,01-Oct-21,0
+1155,Iphones,Offline,255.28,17-Jul-19,13-Jan-20,0
+1156,Tablets,Online,651.21,27-May-21,23-Nov-21,0
+1157,Android Mobiles,Online,109.28,14-Dec-19,11-Jun-20,0
+1158,SIM,Online,437.2,01-Nov-20,30-Apr-21,0
+1159,Iphones,Online,437.2,19-Aug-20,15-Feb-21,0
+1160,Iphones,Online,81.73,06-Jan-19,05-Jul-19,0
+1161,Iphones,Online,109.28,11-Sep-19,09-Mar-20,0
+1162,Chargers,Offline,651.21,15-Dec-19,12-Jun-20,0
+1163,Android Mobiles,Offline,109.28,20-Feb-21,19-Aug-21,0
+1164,Tablets,Offline,651.21,09-Apr-20,06-Oct-20,0
+1165,Chargers,Offline,9.33,18-Jan-20,16-Jul-20,0
+1166,Tablets,Offline,47.45,10-Jun-19,07-Dec-19,0
+1167,Tablets,Offline,205.7,01-Apr-21,28-Sep-21,0
+1168,Android Mobiles,Online,437.2,05-Apr-20,02-Oct-20,0
+1169,Tablets,Offline,668.27,03-Apr-19,30-Sep-19,0
+1170,Tablets,Online,47.45,24-Jul-19,20-Jan-20,0
+1171,Chargers,Online,154.06,08-Aug-19,04-Feb-20,0
+1172,Android Mobiles,Offline,255.28,11-May-21,07-Nov-21,0
+1173,SIM,Offline,437.2,05-Nov-20,04-May-21,0
+1174,Android Mobiles,Online,668.27,19-Dec-19,16-Jun-20,0
+1175,WIFI,Offline,109.28,14-Mar-21,10-Sep-21,0
+1176,WIFI,Online,437.2,13-Jun-19,10-Dec-19,0
+1177,Chargers,Offline,152.58,10-Apr-20,07-Oct-20,0
+1178,Iphones,Online,154.06,02-Nov-19,30-Apr-20,0
+1179,SIM,Offline,81.73,14-Nov-20,13-May-21,0
+1180,WIFI,Online,47.45,16-Aug-21,12-Feb-22,1
+1181,WIFI,Online,255.28,23-Feb-21,22-Aug-21,0
+1182,SIM,Online,9.33,23-Mar-20,19-Sep-20,0
+1183,Chargers,Offline,47.45,20-Apr-21,17-Oct-21,0
+1184,Tablets,Online,651.21,26-Oct-20,24-Apr-21,0
+1185,Tablets,Offline,47.45,21-May-21,17-Nov-21,0
+1186,WIFI,Offline,651.21,02-Aug-20,29-Jan-21,0
+1187,WIFI,Offline,437.2,24-May-21,20-Nov-21,0
+1188,Chargers,Online,47.45,27-Jun-19,24-Dec-19,0
+1189,Chargers,Offline,109.28,07-Nov-20,06-May-21,0
+1190,Chargers,Offline,9.33,11-Jan-21,10-Jul-21,0
+1191,Chargers,Online,154.06,31-Aug-19,27-Feb-20,0
+1192,WIFI,Online,81.73,17-Nov-20,16-May-21,0
+1193,SIM,Offline,668.27,02-Nov-19,30-Apr-20,0
+1194,Android Mobiles,Online,255.28,07-Aug-20,03-Feb-21,0
+1195,WIFI,Offline,205.7,16-Mar-21,12-Sep-21,0
+1196,Chargers,Online,651.21,29-Aug-21,25-Feb-22,1
+1197,Chargers,Offline,9.33,09-Apr-20,06-Oct-20,0
+1198,Iphones,Offline,651.21,22-Sep-20,21-Mar-21,0
+1199,Android Mobiles,Online,255.28,23-Jun-19,20-Dec-19,0
+1200,SIM,Online,668.27,17-Oct-19,14-Apr-20,0
+1201,SIM,Online,154.06,09-Mar-19,05-Sep-19,0
+1202,Android Mobiles,Online,81.73,17-Mar-19,13-Sep-19,0
+1203,WIFI,Offline,205.7,15-Nov-19,13-May-20,0
+1204,Iphones,Offline,154.06,02-Jun-20,29-Nov-20,0
+1205,SIM,Offline,109.28,07-Aug-19,03-Feb-20,0
+1206,Tablets,Online,109.28,06-May-21,02-Nov-21,0
+1207,Tablets,Online,668.27,02-Dec-20,31-May-21,0
+1208,Chargers,Online,81.73,17-Jul-19,13-Jan-20,0
+1209,WIFI,Online,109.28,05-May-20,01-Nov-20,0
+1210,WIFI,Offline,437.2,01-Mar-19,28-Aug-19,0
+1211,Android Mobiles,Offline,47.45,25-Dec-20,23-Jun-21,0
+1212,Tablets,Online,668.27,19-May-20,15-Nov-20,0
+1213,Android Mobiles,Offline,421.89,08-Sep-21,07-Mar-22,1
+1214,SIM,Offline,255.28,04-Aug-19,31-Jan-20,0
+1215,Iphones,Online,255.28,15-May-20,11-Nov-20,0
+1216,Tablets,Offline,152.58,23-Oct-19,20-Apr-20,0
+1217,Iphones,Offline,9.33,24-Mar-20,20-Sep-20,0
+1218,WIFI,Offline,81.73,04-Nov-20,03-May-21,0
+1219,Android Mobiles,Offline,437.2,20-Dec-19,17-Jun-20,0
+1220,Chargers,Online,9.33,05-Jan-19,04-Jul-19,0
+1221,Chargers,Online,9.33,01-Sep-21,28-Feb-22,1
+1222,SIM,Offline,47.45,09-Feb-20,07-Aug-20,0
+1223,WIFI,Offline,668.27,01-Feb-20,30-Jul-20,0
+1224,WIFI,Offline,437.2,12-Jun-20,09-Dec-20,0
+1225,Android Mobiles,Online,81.73,23-Feb-21,22-Aug-21,0
+1226,SIM,Offline,651.21,20-Mar-19,16-Sep-19,0
+1227,Iphones,Offline,668.27,05-Aug-19,01-Feb-20,0
+1228,Android Mobiles,Online,152.58,11-May-20,07-Nov-20,0
+1229,SIM,Online,81.73,02-Oct-20,31-Mar-21,0
+1230,WIFI,Offline,9.33,14-May-21,10-Nov-21,0
+1231,Iphones,Offline,421.89,29-Feb-20,27-Aug-20,0
+1232,SIM,Online,651.21,16-Apr-21,13-Oct-21,0
+1233,Tablets,Offline,651.21,08-Apr-20,05-Oct-20,0
+1234,Tablets,Online,81.73,12-Mar-19,08-Sep-19,0
+1235,Chargers,Online,437.2,13-Mar-20,09-Sep-20,0
+1236,Chargers,Offline,205.7,08-Jan-19,07-Jul-19,0
+1237,Android Mobiles,Offline,154.06,16-Aug-20,12-Feb-21,0
+1238,WIFI,Offline,109.28,09-Jul-19,05-Jan-20,0
+1239,Tablets,Online,205.7,18-Mar-20,14-Sep-20,0
+1240,Tablets,Offline,437.2,04-Mar-20,31-Aug-20,0
+1241,WIFI,Offline,81.73,23-Jun-19,20-Dec-19,0
+1242,WIFI,Online,109.28,01-Dec-20,30-May-21,0
+1243,Tablets,Offline,651.21,06-Feb-20,04-Aug-20,0
+1244,Chargers,Online,109.28,24-May-19,20-Nov-19,0
+1245,SIM,Online,9.33,11-Mar-19,07-Sep-19,0
+1246,SIM,Online,205.7,27-Aug-20,23-Feb-21,0
+1247,Chargers,Offline,651.21,20-Jan-21,19-Jul-21,0
+1248,Android Mobiles,Online,9.33,05-Jun-19,02-Dec-19,0
+1249,Chargers,Online,109.28,30-Jun-20,27-Dec-20,0
+1250,WIFI,Online,109.28,09-Mar-19,05-Sep-19,0
+1251,WIFI,Offline,437.2,10-Aug-20,06-Feb-21,0
+1252,Android Mobiles,Offline,668.27,05-Jul-20,01-Jan-21,0
+1253,WIFI,Offline,437.2,05-Sep-20,04-Mar-21,0
+1254,Tablets,Offline,205.7,13-Jun-21,10-Dec-21,0
+1255,WIFI,Online,255.28,03-Jun-21,30-Nov-21,0
+1256,Tablets,Offline,651.21,17-Mar-19,13-Sep-19,0
+1257,Iphones,Online,109.28,12-Feb-19,11-Aug-19,0
+1258,Tablets,Offline,437.2,09-Jul-21,05-Jan-22,1
+1259,Android Mobiles,Online,437.2,21-Sep-20,20-Mar-21,0
+1260,Tablets,Online,81.73,02-Jul-19,29-Dec-19,0
+1261,SIM,Offline,109.28,15-May-19,11-Nov-19,0
+1262,Tablets,Offline,651.21,21-Aug-20,17-Feb-21,0
+1263,Iphones,Offline,109.28,22-Aug-20,18-Feb-21,0
+1264,Tablets,Online,651.21,10-Jun-19,07-Dec-19,0
+1265,Chargers,Online,9.33,19-Mar-21,15-Sep-21,0
+1266,Tablets,Offline,47.45,21-Jan-20,19-Jul-20,0
+1267,Android Mobiles,Offline,205.7,10-Feb-20,08-Aug-20,0
+1268,Tablets,Offline,437.2,02-Mar-20,29-Aug-20,0
+1269,Chargers,Online,668.27,22-Aug-19,18-Feb-20,0
+1270,Android Mobiles,Online,47.45,17-Oct-21,15-Apr-22,1
+1271,Tablets,Offline,154.06,05-Dec-19,02-Jun-20,0
+1272,SIM,Online,255.28,01-Feb-21,31-Jul-21,0
+1273,Chargers,Offline,437.2,24-Oct-20,22-Apr-21,0
+1274,WIFI,Offline,668.27,18-Jul-21,14-Jan-22,1
+1275,Tablets,Offline,109.28,20-Jan-19,19-Jul-19,0
+1276,WIFI,Online,437.2,04-Jun-19,01-Dec-19,0
+1277,Iphones,Offline,152.58,01-Jun-21,28-Nov-21,0
+1278,Tablets,Online,154.06,24-Nov-19,22-May-20,0
+1279,Android Mobiles,Online,81.73,30-Sep-20,29-Mar-21,0
+1280,Tablets,Offline,47.45,29-Dec-20,27-Jun-21,0
+1281,WIFI,Online,255.28,01-Sep-19,28-Feb-20,0
+1282,Android Mobiles,Offline,9.33,22-Mar-20,18-Sep-20,0
+1283,Chargers,Online,47.45,15-Sep-19,13-Mar-20,0
+1284,WIFI,Online,651.21,14-Sep-21,13-Mar-22,1
+1285,Android Mobiles,Online,47.45,14-Feb-19,13-Aug-19,0
+1286,SIM,Online,651.21,03-Apr-19,30-Sep-19,0
+1287,Iphones,Online,437.2,31-Jul-21,27-Jan-22,1
+1288,WIFI,Online,47.45,11-Aug-19,07-Feb-20,0
+1289,Iphones,Online,109.28,27-Jun-19,24-Dec-19,0
+1290,Iphones,Online,9.33,10-Aug-20,06-Feb-21,0
+1291,Iphones,Offline,154.06,16-Jan-20,14-Jul-20,0
+1292,WIFI,Offline,81.73,10-Oct-19,07-Apr-20,0
+1293,Chargers,Offline,668.27,16-Dec-19,13-Jun-20,0
+1294,Iphones,Offline,255.28,13-Oct-19,10-Apr-20,0
+1295,Android Mobiles,Online,205.7,03-Dec-20,01-Jun-21,0
+1296,Android Mobiles,Offline,651.21,13-Oct-19,10-Apr-20,0
+1297,SIM,Offline,9.33,06-Jun-21,03-Dec-21,0
+1298,Iphones,Online,651.21,25-Apr-21,22-Oct-21,0
+1299,Chargers,Online,255.28,22-Oct-20,20-Apr-21,0
+1300,SIM,Offline,668.27,19-Jun-20,16-Dec-20,0
+1301,Chargers,Offline,154.06,12-Jul-21,08-Jan-22,1
+1302,Tablets,Online,81.73,18-Sep-21,17-Mar-22,1
+1303,Tablets,Online,205.7,16-Feb-19,15-Aug-19,0
+1304,SIM,Offline,154.06,08-Oct-21,06-Apr-22,1
+1305,Chargers,Offline,109.28,19-Jun-19,16-Dec-19,0
+1306,Tablets,Online,109.28,30-Mar-20,26-Sep-20,0
+1307,Tablets,Offline,668.27,25-Mar-20,21-Sep-20,0
+1308,WIFI,Offline,81.73,25-Feb-19,24-Aug-19,0
+1309,Tablets,Offline,109.28,29-May-21,25-Nov-21,0
+1310,WIFI,Online,437.2,23-Sep-20,22-Mar-21,0
+1311,Tablets,Online,47.45,10-May-21,06-Nov-21,0
+1312,Chargers,Offline,668.27,15-Feb-21,14-Aug-21,0
+1313,WIFI,Offline,421.89,26-Jun-20,23-Dec-20,0
+1314,WIFI,Online,255.28,13-Apr-19,10-Oct-19,0
+1315,Android Mobiles,Offline,255.28,26-Jun-20,23-Dec-20,0
+1316,Chargers,Online,152.58,30-Apr-21,27-Oct-21,0
+1317,SIM,Online,9.33,03-Jun-19,30-Nov-19,0
+1318,SIM,Online,81.73,25-Jul-21,21-Jan-22,1
+1319,Android Mobiles,Online,437.2,06-Sep-19,04-Mar-20,0
+1320,Iphones,Online,9.33,28-Jan-19,27-Jul-19,0
+1321,WIFI,Offline,9.33,05-Aug-19,01-Feb-20,0
+1322,Android Mobiles,Online,47.45,24-Dec-19,21-Jun-20,0
+1323,Iphones,Offline,668.27,29-Jan-19,28-Jul-19,0
+1324,WIFI,Offline,437.2,28-Sep-19,26-Mar-20,0
+1325,WIFI,Offline,81.73,13-Mar-19,09-Sep-19,0
+1326,WIFI,Offline,651.21,16-Dec-20,14-Jun-21,0
+1327,SIM,Online,668.27,28-Mar-20,24-Sep-20,0
+1328,Iphones,Offline,152.58,08-Jul-21,04-Jan-22,1
+1329,Chargers,Offline,81.73,26-Aug-20,22-Feb-21,0
+1330,Android Mobiles,Offline,9.33,12-Mar-20,08-Sep-20,0
+1331,Iphones,Offline,421.89,28-Jul-21,24-Jan-22,1
+1332,WIFI,Online,651.21,29-Feb-20,27-Aug-20,0
+1333,Iphones,Offline,651.21,22-Feb-20,20-Aug-20,0
+1334,Iphones,Online,81.73,01-Nov-20,30-Apr-21,0
+1335,Tablets,Online,437.2,27-Aug-21,23-Feb-22,1
+1336,Chargers,Online,205.7,12-Jan-19,11-Jul-19,0
+1337,WIFI,Offline,154.06,26-Jun-19,23-Dec-19,0
+1338,SIM,Online,109.28,13-Feb-21,12-Aug-21,0
+1339,WIFI,Online,205.7,31-Dec-19,28-Jun-20,0
+1340,Android Mobiles,Online,437.2,23-Jun-19,20-Dec-19,0
+1341,WIFI,Online,81.73,15-May-21,11-Nov-21,0
+1342,Android Mobiles,Online,109.28,26-Jan-19,25-Jul-19,0
+1343,SIM,Online,651.21,17-May-19,13-Nov-19,0
+1344,Tablets,Offline,109.28,02-May-20,29-Oct-20,0
+1345,Iphones,Offline,9.33,30-Sep-20,29-Mar-21,0
+1346,WIFI,Offline,205.7,31-Mar-20,27-Sep-20,0
+1347,Android Mobiles,Offline,651.21,02-Feb-21,01-Aug-21,0
+1348,Iphones,Online,9.33,12-May-20,08-Nov-20,0
+1349,WIFI,Online,109.28,11-May-19,07-Nov-19,0
+1350,Android Mobiles,Online,109.28,16-Jan-20,14-Jul-20,0
+1351,Iphones,Online,437.2,30-Aug-21,26-Feb-22,1
+1352,SIM,Online,668.27,03-May-20,30-Oct-20,0
+1353,WIFI,Offline,437.2,09-Apr-20,06-Oct-20,0
+1354,SIM,Online,205.7,02-Apr-20,29-Sep-20,0
+1355,Chargers,Online,255.28,21-Apr-20,18-Oct-20,0
+1356,SIM,Offline,651.21,24-Jan-20,22-Jul-20,0
+1357,WIFI,Offline,109.28,22-Jul-21,18-Jan-22,1
+1358,Tablets,Offline,437.2,21-Feb-20,19-Aug-20,0
+1359,WIFI,Offline,437.2,10-Jan-21,09-Jul-21,0
+1360,Chargers,Online,81.73,15-Aug-19,11-Feb-20,0
+1361,Android Mobiles,Offline,109.28,08-Jan-21,07-Jul-21,0
+1362,Android Mobiles,Offline,651.21,05-May-19,01-Nov-19,0
+1363,Android Mobiles,Offline,109.28,16-Oct-21,14-Apr-22,1
+1364,WIFI,Offline,651.21,14-Feb-20,12-Aug-20,0
+1365,SIM,Online,9.33,28-Feb-21,27-Aug-21,0
+1366,Android Mobiles,Offline,47.45,26-Sep-21,25-Mar-22,1
+1367,SIM,Offline,205.7,13-Jul-20,09-Jan-21,0
+1368,Iphones,Online,437.2,10-Aug-20,06-Feb-21,0
+1369,WIFI,Online,668.27,15-Dec-20,13-Jun-21,0
+1370,SIM,Online,47.45,27-Jul-21,23-Jan-22,1
+1371,WIFI,Online,154.06,02-Apr-20,29-Sep-20,0
+1372,SIM,Offline,255.28,22-Mar-21,18-Sep-21,0
+1373,Iphones,Offline,437.2,27-Jul-21,23-Jan-22,1
+1374,Iphones,Offline,668.27,11-May-20,07-Nov-20,0
+1375,Chargers,Offline,109.28,16-Dec-19,13-Jun-20,0
+1376,Iphones,Offline,437.2,18-Oct-20,16-Apr-21,0
+1377,SIM,Online,152.58,18-Sep-20,17-Mar-21,0
+1378,Chargers,Offline,154.06,05-Jan-21,04-Jul-21,0
+1379,Android Mobiles,Offline,81.73,10-Aug-20,06-Feb-21,0
+1380,Iphones,Online,47.45,29-Apr-20,26-Oct-20,0
+1381,Android Mobiles,Offline,255.28,13-Apr-19,10-Oct-19,0
+1382,Tablets,Online,9.33,03-May-20,30-Oct-20,0
+1383,Android Mobiles,Offline,47.45,15-Jan-21,14-Jul-21,0
+1384,Android Mobiles,Offline,651.21,11-Apr-19,08-Oct-19,0
+1385,Chargers,Offline,47.45,14-Feb-21,13-Aug-21,0
+1386,Chargers,Online,651.21,20-Jun-21,17-Dec-21,0
+1387,Tablets,Offline,437.2,14-Aug-20,10-Feb-21,0
+1388,Iphones,Online,47.45,19-Oct-20,17-Apr-21,0
+1389,WIFI,Offline,109.28,27-Sep-19,25-Mar-20,0
+1390,Android Mobiles,Online,9.33,31-Jul-20,27-Jan-21,0
+1391,Iphones,Online,154.06,06-Jul-21,02-Jan-22,1
+1392,Android Mobiles,Offline,81.73,31-May-19,27-Nov-19,0
+1393,Tablets,Offline,668.27,03-Jun-21,30-Nov-21,0
+1394,Iphones,Online,255.28,12-Jan-21,11-Jul-21,0
+1395,Chargers,Offline,205.7,29-May-21,25-Nov-21,0
+1396,Android Mobiles,Online,651.21,05-Dec-20,03-Jun-21,0
+1397,SIM,Offline,9.33,25-Mar-21,21-Sep-21,0
+1398,Iphones,Online,651.21,13-Sep-19,11-Mar-20,0
+1399,Android Mobiles,Offline,255.28,15-Feb-21,14-Aug-21,0
+1400,Chargers,Offline,668.27,17-Sep-20,16-Mar-21,0
+1401,WIFI,Offline,154.06,31-Jul-20,27-Jan-21,0
+1402,SIM,Offline,81.73,01-Jan-21,30-Jun-21,0
+1403,WIFI,Offline,205.7,20-Feb-19,19-Aug-19,0
+1404,Tablets,Offline,154.06,11-Oct-21,09-Apr-22,1
+1405,Chargers,Offline,109.28,15-Apr-19,12-Oct-19,0
+1406,Iphones,Offline,109.28,02-Oct-20,31-Mar-21,0
+1407,SIM,Offline,668.27,19-Feb-19,18-Aug-19,0
+1408,WIFI,Online,81.73,22-Mar-21,18-Sep-21,0
+1409,Tablets,Offline,109.28,30-Aug-21,26-Feb-22,1
+1410,SIM,Online,437.2,27-Jul-20,23-Jan-21,0
+1411,SIM,Online,47.45,22-Sep-20,21-Mar-21,0
+1412,Android Mobiles,Offline,668.27,07-Aug-21,03-Feb-22,1
+1413,SIM,Online,421.89,29-Apr-21,26-Oct-21,0
+1414,Android Mobiles,Offline,255.28,10-Aug-21,06-Feb-22,1
+1415,WIFI,Online,255.28,04-Jul-20,31-Dec-20,0
+1416,Tablets,Online,152.58,06-Apr-19,03-Oct-19,0
+1417,Iphones,Offline,9.33,12-Dec-19,09-Jun-20,0
+1418,Tablets,Online,81.73,02-Mar-20,29-Aug-20,0
+1419,WIFI,Offline,437.2,01-Sep-21,28-Feb-22,1
+1420,Chargers,Online,9.33,18-Nov-20,17-May-21,0
+1421,SIM,Offline,9.33,07-Jul-20,03-Jan-21,0
+1422,Iphones,Offline,47.45,07-Feb-21,06-Aug-21,0
+1423,Tablets,Online,668.27,04-Sep-20,03-Mar-21,0
+1424,Chargers,Online,437.2,25-Oct-19,22-Apr-20,0
+1425,Tablets,Offline,81.73,26-Aug-20,22-Feb-21,0
+1426,Iphones,Online,651.21,27-Jan-19,26-Jul-19,0
+1427,WIFI,Offline,668.27,08-Jan-21,07-Jul-21,0
+1428,Iphones,Offline,152.58,10-Jul-20,06-Jan-21,0
+1429,Android Mobiles,Offline,81.73,04-Mar-21,31-Aug-21,0
+1430,Iphones,Online,9.33,25-Jan-20,23-Jul-20,0
+1431,SIM,Online,421.89,16-Feb-20,14-Aug-20,0
+1432,WIFI,Online,651.21,21-Apr-20,18-Oct-20,0
+1433,WIFI,Offline,651.21,10-Jan-20,08-Jul-20,0
+1434,Tablets,Online,81.73,26-Nov-20,25-May-21,0
+1435,Chargers,Offline,437.2,26-Jun-20,23-Dec-20,0
+1436,Chargers,Online,205.7,20-Jul-19,16-Jan-20,0
+1437,WIFI,Offline,154.06,25-Aug-19,21-Feb-20,0
+1438,SIM,Online,109.28,21-Mar-19,17-Sep-19,0
+1439,Tablets,Offline,205.7,16-Feb-21,15-Aug-21,0
+1440,SIM,Online,437.2,05-Oct-19,02-Apr-20,0
+1441,WIFI,Offline,81.73,18-Aug-20,14-Feb-21,0
+1442,WIFI,Offline,109.28,27-Oct-19,24-Apr-20,0
+1443,Tablets,Online,651.21,14-Jul-20,10-Jan-21,0
+1444,Iphones,Offline,109.28,06-Aug-20,02-Feb-21,0
+1445,Tablets,Offline,9.33,19-Feb-19,18-Aug-19,0
+1446,Android Mobiles,Online,205.7,29-Oct-19,26-Apr-20,0
+1447,SIM,Offline,651.21,07-Feb-21,06-Aug-21,0
+1448,Android Mobiles,Online,9.33,21-Aug-19,17-Feb-20,0
+1449,SIM,Offline,109.28,17-Aug-20,13-Feb-21,0
+1450,Android Mobiles,Online,109.28,22-Mar-21,18-Sep-21,0
+1451,Tablets,Online,437.2,23-Aug-20,19-Feb-21,0
+1452,Chargers,Online,668.27,19-Mar-20,15-Sep-20,0
+1453,Chargers,Offline,437.2,16-Aug-21,12-Feb-22,1
+1454,Tablets,Offline,205.7,21-Sep-20,20-Mar-21,0
+1455,Tablets,Online,255.28,04-Jul-21,31-Dec-21,0
+1456,SIM,Offline,651.21,06-Oct-20,04-Apr-21,0
+1457,Chargers,Online,109.28,02-Nov-20,01-May-21,0
+1458,Android Mobiles,Offline,437.2,24-Nov-20,23-May-21,0
+1459,WIFI,Online,437.2,29-Apr-19,26-Oct-19,0
+1460,Iphones,Offline,81.73,10-Jun-19,07-Dec-19,0
+1461,SIM,Offline,109.28,21-Sep-21,20-Mar-22,1
+1462,Android Mobiles,Offline,651.21,18-Mar-21,14-Sep-21,0
+1463,Chargers,Online,109.28,09-Feb-20,07-Aug-20,0
+1464,Iphones,Offline,651.21,25-May-19,21-Nov-19,0
+1465,Tablets,Online,9.33,24-Feb-21,23-Aug-21,0
+1466,Android Mobiles,Offline,47.45,23-Nov-20,22-May-21,0
+1467,SIM,Offline,205.7,13-Jan-20,11-Jul-20,0
+1468,Iphones,Online,437.2,25-Jun-20,22-Dec-20,0
+1469,Iphones,Online,668.27,12-May-20,08-Nov-20,0
+1470,Android Mobiles,Online,47.45,18-Aug-20,14-Feb-21,0
+1471,SIM,Offline,154.06,04-Jun-21,01-Dec-21,0
+1472,Android Mobiles,Offline,255.28,22-Feb-19,21-Aug-19,0
+1473,Android Mobiles,Online,437.2,20-Oct-21,18-Apr-22,1
+1474,WIFI,Online,668.27,01-May-21,28-Oct-21,0
+1475,Chargers,Offline,109.28,20-Oct-20,18-Apr-21,0
+1476,SIM,Online,437.2,09-Oct-19,06-Apr-20,0
+1477,Iphones,Online,152.58,26-Feb-19,25-Aug-19,0
+1478,SIM,Online,154.06,26-Jan-19,25-Jul-19,0
+1479,SIM,Offline,81.73,06-Mar-20,02-Sep-20,0
+1480,Tablets,Online,47.45,12-Jan-20,10-Jul-20,0
+1481,Android Mobiles,Offline,255.28,19-Oct-20,17-Apr-21,0
+1482,Chargers,Online,9.33,11-Apr-21,08-Oct-21,0
+1483,Android Mobiles,Offline,47.45,27-Jun-20,24-Dec-20,0
+1484,SIM,Online,651.21,28-Mar-20,24-Sep-20,0
+1485,WIFI,Offline,47.45,25-Jan-19,24-Jul-19,0
+1486,Tablets,Online,651.21,06-Jan-19,05-Jul-19,0
+1487,Iphones,Offline,255.28,25-Jan-20,23-Jul-20,0
+1488,Iphones,Online,205.7,05-Aug-21,01-Feb-22,1
+1489,Tablets,Offline,651.21,21-Jun-21,18-Dec-21,0
+1490,Tablets,Online,9.33,31-Jan-21,30-Jul-21,0
+1491,Chargers,Online,651.21,15-May-21,11-Nov-21,0
+1492,Android Mobiles,Offline,255.28,27-Jan-19,26-Jul-19,0
+1493,Chargers,Online,668.27,08-Jan-20,06-Jul-20,0
+1494,WIFI,Offline,154.06,15-May-21,11-Nov-21,0
+1495,Iphones,Offline,81.73,14-Jun-19,11-Dec-19,0
+1496,Tablets,Offline,205.7,30-Mar-19,26-Sep-19,0
+1497,WIFI,Offline,154.06,20-Aug-19,16-Feb-20,0
+1498,Android Mobiles,Offline,109.28,16-Mar-19,12-Sep-19,0
+1499,Iphones,Online,109.28,03-May-21,30-Oct-21,0
+1500,Android Mobiles,Online,668.27,27-Nov-20,26-May-21,0
+1501,Tablets,Online,81.73,08-Aug-19,04-Feb-20,0
+1502,Iphones,Online,109.28,22-Feb-21,21-Aug-21,0
+1503,WIFI,Online,437.2,24-Feb-19,23-Aug-19,0
+1504,Android Mobiles,Online,47.45,12-Nov-19,10-May-20,0
+1505,Chargers,Online,668.27,12-Feb-21,11-Aug-21,0
+1506,Chargers,Offline,421.89,27-Jun-20,24-Dec-20,0
+1507,WIFI,Online,255.28,27-Apr-20,24-Oct-20,0
+1508,Chargers,Offline,255.28,20-Aug-19,16-Feb-20,0
+1509,Tablets,Online,152.58,22-Jan-21,21-Jul-21,0
+1510,SIM,Online,9.33,02-Mar-20,29-Aug-20,0
+1511,Android Mobiles,Offline,81.73,19-Apr-21,16-Oct-21,0
+1512,Iphones,Online,437.2,24-Apr-19,21-Oct-19,0
+1513,Android Mobiles,Online,9.33,23-Jan-19,22-Jul-19,0
+1514,Iphones,Online,9.33,12-Mar-21,08-Sep-21,0
+1515,Tablets,Online,47.45,09-Jul-21,05-Jan-22,1
+1516,Iphones,Online,668.27,25-Jul-19,21-Jan-20,0
+1517,SIM,Offline,437.2,01-Nov-20,30-Apr-21,0
+1518,Iphones,Online,81.73,13-Jan-21,12-Jul-21,0
+1519,Chargers,Offline,651.21,27-Nov-19,25-May-20,0
+1520,Tablets,Online,668.27,10-May-19,06-Nov-19,0
+1521,WIFI,Offline,152.58,15-Dec-20,13-Jun-21,0
+1522,Android Mobiles,Offline,81.73,20-Jan-20,18-Jul-20,0
+1523,SIM,Online,9.33,30-Dec-20,28-Jun-21,0
+1524,Chargers,Offline,421.89,23-Feb-21,22-Aug-21,0
+1525,Iphones,Offline,651.21,21-Mar-21,17-Sep-21,0
+1526,WIFI,Online,651.21,20-May-21,16-Nov-21,0
+1527,Android Mobiles,Offline,81.73,29-Dec-19,26-Jun-20,0
+1528,Chargers,Online,437.2,18-Feb-19,17-Aug-19,0
+1529,SIM,Offline,205.7,14-Jun-20,11-Dec-20,0
+1530,Android Mobiles,Online,154.06,21-Jul-19,17-Jan-20,0
+1531,SIM,Offline,109.28,11-Mar-20,07-Sep-20,0
+1532,Iphones,Online,205.7,30-Mar-21,26-Sep-21,0
+1533,Tablets,Online,437.2,08-Jul-21,04-Jan-22,1
+1534,Chargers,Offline,81.73,22-Sep-19,20-Mar-20,0
+1535,WIFI,Online,109.28,15-May-20,11-Nov-20,0
+1536,Android Mobiles,Offline,651.21,08-Dec-20,06-Jun-21,0
+1537,Chargers,Offline,109.28,22-May-20,18-Nov-20,0
+1538,SIM,Online,9.33,30-Dec-20,28-Jun-21,0
+1539,SIM,Online,205.7,23-Sep-19,21-Mar-20,0
+1540,Iphones,Offline,651.21,15-May-21,11-Nov-21,0
+1541,Chargers,Online,9.33,07-Jun-19,04-Dec-19,0
+1542,Android Mobiles,Offline,109.28,09-May-20,05-Nov-20,0
+1543,Tablets,Offline,109.28,26-Jul-19,22-Jan-20,0
+1544,SIM,Online,437.2,27-Oct-20,25-Apr-21,0
+1545,Android Mobiles,Offline,668.27,23-Sep-19,21-Mar-20,0
+1546,Iphones,Offline,437.2,16-Jan-19,15-Jul-19,0
+1547,WIFI,Online,205.7,05-Feb-19,04-Aug-19,0
+1548,Android Mobiles,Offline,255.28,04-Jun-21,01-Dec-21,0
+1549,Chargers,Offline,651.21,29-Jul-20,25-Jan-21,0
+1550,WIFI,Offline,109.28,24-Jul-20,20-Jan-21,0
+1551,SIM,Offline,437.2,19-Nov-19,17-May-20,0
+1552,Chargers,Offline,437.2,30-Jun-20,27-Dec-20,0
+1553,Chargers,Offline,81.73,14-Dec-19,11-Jun-20,0
+1554,SIM,Offline,109.28,02-Nov-20,01-May-21,0
+1555,SIM,Online,651.21,04-Jul-21,31-Dec-21,0
+1556,Chargers,Offline,109.28,21-Dec-19,18-Jun-20,0
+1557,Android Mobiles,Offline,651.21,30-Jan-20,28-Jul-20,0
+1558,Tablets,Online,9.33,20-Nov-19,18-May-20,0
+1559,Tablets,Online,47.45,01-May-20,28-Oct-20,0
+1560,Iphones,Online,205.7,04-May-21,31-Oct-21,0
+1561,Tablets,Offline,437.2,18-Mar-19,14-Sep-19,0
+1562,Chargers,Online,668.27,01-Mar-20,28-Aug-20,0
+1563,Tablets,Offline,47.45,27-Jan-21,26-Jul-21,0
+1564,SIM,Offline,154.06,30-Jul-20,26-Jan-21,0
+1565,Android Mobiles,Online,255.28,30-Dec-19,27-Jun-20,0
+1566,WIFI,Online,437.2,16-Feb-21,15-Aug-21,0
+1567,Chargers,Offline,668.27,22-Mar-19,18-Sep-19,0
+1568,Iphones,Offline,109.28,15-Jun-19,12-Dec-19,0
+1569,Tablets,Offline,437.2,06-Nov-19,04-May-20,0
+1570,Android Mobiles,Offline,152.58,05-Oct-20,03-Apr-21,0
+1571,WIFI,Online,154.06,05-Jul-19,01-Jan-20,0
+1572,Tablets,Offline,81.73,09-May-21,05-Nov-21,0
+1573,Chargers,Offline,47.45,18-Jul-21,14-Jan-22,1
+1574,SIM,Offline,255.28,22-Jul-21,18-Jan-22,1
+1575,SIM,Offline,9.33,29-Sep-19,27-Mar-20,0
+1576,Chargers,Offline,47.45,01-May-20,28-Oct-20,0
+1577,WIFI,Online,651.21,06-Jan-20,04-Jul-20,0
+1578,Tablets,Online,47.45,18-Mar-20,14-Sep-20,0
+1579,SIM,Online,651.21,08-Dec-20,06-Jun-21,0
+1580,Chargers,Offline,437.2,20-Aug-21,16-Feb-22,1
+1581,Iphones,Offline,47.45,21-Jun-19,18-Dec-19,0
+1582,Tablets,Online,109.28,05-Nov-19,03-May-20,0
+1583,Iphones,Offline,9.33,13-Jan-20,11-Jul-20,0
+1584,WIFI,Offline,154.06,12-Jul-20,08-Jan-21,0
+1585,WIFI,Online,81.73,23-Jan-21,22-Jul-21,0
+1586,WIFI,Offline,668.27,27-Feb-20,25-Aug-20,0
+1587,Tablets,Offline,255.28,21-Jun-19,18-Dec-19,0
+1588,Chargers,Offline,205.7,12-Jun-21,09-Dec-21,0
+1589,WIFI,Offline,651.21,03-Nov-19,01-May-20,0
+1590,Iphones,Offline,9.33,05-Jan-21,04-Jul-21,0
+1591,Tablets,Online,651.21,21-Jul-21,17-Jan-22,1
+1592,Tablets,Offline,255.28,03-Aug-20,30-Jan-21,0
+1593,Android Mobiles,Offline,668.27,16-Feb-20,14-Aug-20,0
+1594,Android Mobiles,Online,154.06,29-Jan-21,28-Jul-21,0
+1595,Chargers,Online,81.73,28-Jul-20,24-Jan-21,0
+1596,Chargers,Offline,205.7,03-Jul-19,30-Dec-19,0
+1597,SIM,Online,154.06,19-Feb-20,17-Aug-20,0
+1598,WIFI,Online,109.28,07-Apr-19,04-Oct-19,0
+1599,SIM,Offline,109.28,07-Oct-19,04-Apr-20,0
+1600,Iphones,Online,668.27,24-Jul-19,20-Jan-20,0
+1601,Chargers,Online,81.73,24-Jun-20,21-Dec-20,0
+1602,Iphones,Offline,109.28,06-Jan-20,04-Jul-20,0
+1603,Chargers,Online,437.2,14-Jul-20,10-Jan-21,0
+1604,Android Mobiles,Online,47.45,12-Jan-19,11-Jul-19,0
+1605,Iphones,Offline,668.27,13-Jun-21,10-Dec-21,0
+1606,Android Mobiles,Offline,421.89,04-Feb-20,02-Aug-20,0
+1607,Chargers,Online,255.28,03-Jul-20,30-Dec-20,0
+1608,SIM,Offline,255.28,17-Jan-20,15-Jul-20,0
+1609,WIFI,Online,152.58,15-Jul-21,11-Jan-22,1
+1610,Android Mobiles,Online,9.33,03-Apr-21,30-Sep-21,0
+1611,Tablets,Online,81.73,12-Jun-19,09-Dec-19,0
+1612,Android Mobiles,Offline,437.2,27-Jun-21,24-Dec-21,0
+1613,Tablets,Offline,9.33,11-Dec-19,08-Jun-20,0
+1614,WIFI,Online,9.33,31-Oct-19,28-Apr-20,0
+1615,Iphones,Online,47.45,09-Feb-19,08-Aug-19,0
+1616,WIFI,Offline,668.27,10-Dec-20,08-Jun-21,0
+1617,SIM,Online,437.2,17-Apr-19,14-Oct-19,0
+1618,WIFI,Offline,81.73,21-Apr-19,18-Oct-19,0
+1619,Iphones,Online,651.21,21-May-19,17-Nov-19,0
+1620,WIFI,Online,668.27,23-Jun-21,20-Dec-21,0
+1621,SIM,Online,152.58,24-Dec-19,21-Jun-20,0
+1622,Iphones,Offline,81.73,03-Jul-20,30-Dec-20,0
+1623,SIM,Offline,9.33,17-May-19,13-Nov-19,0
+1624,Iphones,Offline,421.89,07-Sep-20,06-Mar-21,0
+1625,SIM,Online,651.21,06-Mar-19,02-Sep-19,0
+1626,Chargers,Offline,651.21,14-May-20,10-Nov-20,0
+1627,SIM,Online,81.73,13-Mar-21,09-Sep-21,0
+1628,SIM,Online,437.2,20-Mar-21,16-Sep-21,0
+1629,Tablets,Online,205.7,18-May-21,14-Nov-21,0
+1630,Tablets,Online,154.06,07-Jun-20,04-Dec-20,0
+1631,Iphones,Online,109.28,13-Jun-19,10-Dec-19,0
+1632,Tablets,Online,205.7,10-Feb-20,08-Aug-20,0
+1633,WIFI,Online,437.2,23-Apr-19,20-Oct-19,0
+1634,Android Mobiles,Offline,81.73,22-Dec-20,20-Jun-21,0
+1635,Tablets,Offline,109.28,16-Sep-20,15-Mar-21,0
+1636,WIFI,Online,651.21,25-Jan-21,24-Jul-21,0
+1637,Chargers,Offline,109.28,15-Jul-21,11-Jan-22,1
+1638,Chargers,Offline,9.33,20-Apr-19,17-Oct-19,0
+1639,SIM,Online,205.7,13-Oct-21,11-Apr-22,1
+1640,SIM,Offline,651.21,13-Jun-19,10-Dec-19,0
+1641,Tablets,Offline,9.33,09-Mar-21,05-Sep-21,0
+1642,Iphones,Online,109.28,21-Jul-21,17-Jan-22,1
+1643,Tablets,Online,109.28,21-Jan-19,20-Jul-19,0
+1644,Tablets,Offline,437.2,13-Sep-20,12-Mar-21,0
+1645,SIM,Offline,668.27,11-Nov-19,09-May-20,0
+1646,Android Mobiles,Offline,437.2,02-Sep-19,29-Feb-20,0
+1647,SIM,Offline,205.7,07-May-19,03-Nov-19,0
+1648,Android Mobiles,Offline,255.28,25-Nov-20,24-May-21,0
+1649,SIM,Online,651.21,15-May-20,11-Nov-20,0
+1650,Iphones,Online,109.28,10-Mar-20,06-Sep-20,0
+1651,WIFI,Offline,437.2,22-Aug-20,18-Feb-21,0
+1652,Chargers,Offline,437.2,22-Jun-19,19-Dec-19,0
+1653,Tablets,Offline,81.73,21-Apr-19,18-Oct-19,0
+1654,Iphones,Offline,109.28,21-Nov-19,19-May-20,0
+1655,Tablets,Online,651.21,18-Feb-19,17-Aug-19,0
+1656,Tablets,Offline,109.28,02-Dec-20,31-May-21,0
+1657,SIM,Online,651.21,28-Aug-20,24-Feb-21,0
+1658,Tablets,Offline,9.33,26-Apr-21,23-Oct-21,0
+1659,Tablets,Online,47.45,24-Jun-19,21-Dec-19,0
+1660,WIFI,Online,205.7,13-Jun-21,10-Dec-21,0
+1661,SIM,Online,437.2,20-Jul-20,16-Jan-21,0
+1662,WIFI,Offline,668.27,20-Mar-20,16-Sep-20,0
+1663,SIM,Online,47.45,23-Jul-20,19-Jan-21,0
+1664,Tablets,Online,154.06,09-Dec-19,06-Jun-20,0
+1665,Tablets,Online,255.28,06-Feb-21,05-Aug-21,0
+1666,Android Mobiles,Online,437.2,03-Jan-19,02-Jul-19,0
+1667,Tablets,Online,668.27,21-Jan-20,19-Jul-20,0
+1668,Android Mobiles,Offline,109.28,15-Nov-20,14-May-21,0
+1669,Chargers,Online,437.2,12-Dec-19,09-Jun-20,0
+1670,Iphones,Online,152.58,21-Oct-19,18-Apr-20,0
+1671,WIFI,Online,154.06,03-Jul-19,30-Dec-19,0
+1672,WIFI,Online,81.73,18-Feb-19,17-Aug-19,0
+1673,Tablets,Online,47.45,12-Oct-21,10-Apr-22,1
+1674,Tablets,Online,255.28,18-Mar-20,14-Sep-20,0
+1675,Chargers,Offline,9.33,04-Jun-19,01-Dec-19,0
+1676,Android Mobiles,Online,47.45,06-Jun-20,03-Dec-20,0
+1677,Chargers,Offline,651.21,10-Sep-19,08-Mar-20,0
+1678,WIFI,Offline,47.45,24-Apr-21,21-Oct-21,0
+1679,SIM,Offline,651.21,26-Jul-20,22-Jan-21,0
+1680,Android Mobiles,Offline,437.2,09-Jun-21,06-Dec-21,0
+1681,Tablets,Offline,47.45,04-Aug-19,31-Jan-20,0
+1682,Android Mobiles,Offline,109.28,28-Jan-21,27-Jul-21,0
+1683,SIM,Offline,9.33,06-Nov-20,05-May-21,0
+1684,SIM,Offline,154.06,09-Jun-20,06-Dec-20,0
+1685,SIM,Offline,81.73,13-May-21,09-Nov-21,0
+1686,Tablets,Offline,668.27,15-Mar-19,11-Sep-19,0
+1687,Iphones,Offline,255.28,26-Dec-19,23-Jun-20,0
+1688,Android Mobiles,Offline,205.7,28-Aug-21,24-Feb-22,1
+1689,SIM,Offline,651.21,02-Mar-21,29-Aug-21,0
+1690,Iphones,Online,9.33,25-Oct-20,23-Apr-21,0
+1691,Iphones,Offline,651.21,24-Mar-20,20-Sep-20,0
+1692,Chargers,Offline,255.28,09-May-21,05-Nov-21,0
+1693,Iphones,Online,668.27,15-Jan-21,14-Jul-21,0
+1694,SIM,Offline,154.06,15-Jan-19,14-Jul-19,0
+1695,Tablets,Offline,81.73,22-Apr-19,19-Oct-19,0
+1696,Iphones,Online,205.7,23-Mar-19,19-Sep-19,0
+1697,Android Mobiles,Offline,154.06,13-Aug-21,09-Feb-22,1
+1698,Chargers,Online,109.28,26-Jun-19,23-Dec-19,0
+1699,Tablets,Online,109.28,05-Sep-20,04-Mar-21,0
+1700,Tablets,Offline,668.27,01-Mar-20,28-Aug-20,0
+1701,SIM,Online,81.73,25-Aug-20,21-Feb-21,0
+1702,Tablets,Online,109.28,23-Aug-19,19-Feb-20,0
+1703,Iphones,Online,437.2,07-Oct-19,04-Apr-20,0
+1704,Chargers,Offline,47.45,12-Jun-19,09-Dec-19,0
+1705,Iphones,Offline,668.27,07-Jun-20,04-Dec-20,0
+1706,WIFI,Online,421.89,12-Dec-20,10-Jun-21,0
+1707,Iphones,Online,255.28,04-Mar-21,31-Aug-21,0
+1708,Chargers,Offline,255.28,09-Apr-20,06-Oct-20,0
+1709,Tablets,Offline,152.58,15-Sep-20,14-Mar-21,0
+1710,SIM,Offline,9.33,03-Feb-21,02-Aug-21,0
+1711,Tablets,Offline,81.73,16-Apr-20,13-Oct-20,0
+1712,Iphones,Offline,437.2,26-Sep-19,24-Mar-20,0
+1713,Android Mobiles,Offline,9.33,21-Jul-19,17-Jan-20,0
+1714,Tablets,Offline,9.33,19-Aug-21,15-Feb-22,1
+1715,Iphones,Offline,47.45,14-Aug-19,10-Feb-20,0
+1716,WIFI,Online,668.27,19-May-19,15-Nov-19,0
+1717,SIM,Offline,437.2,22-May-19,18-Nov-19,0
+1718,WIFI,Offline,81.73,19-May-19,15-Nov-19,0
+1719,WIFI,Online,651.21,22-May-20,18-Nov-20,0
+1720,Tablets,Online,668.27,25-Feb-20,23-Aug-20,0
+1721,Iphones,Offline,152.58,13-May-19,09-Nov-19,0
+1722,Tablets,Offline,81.73,07-Jul-21,03-Jan-22,1
+1723,WIFI,Offline,9.33,21-Jan-19,20-Jul-19,0
+1724,Android Mobiles,Online,421.89,23-Mar-19,19-Sep-19,0
+1725,Chargers,Offline,651.21,09-Mar-19,05-Sep-19,0
+1726,Tablets,Online,651.21,19-Sep-19,17-Mar-20,0
+1727,Chargers,Online,81.73,18-Dec-19,15-Jun-20,0
+1728,SIM,Online,437.2,15-Sep-20,14-Mar-21,0
+1729,Tablets,Offline,205.7,08-Mar-20,04-Sep-20,0
+1730,Chargers,Offline,154.06,06-Jun-21,03-Dec-21,0
+1731,Chargers,Offline,109.28,27-May-20,23-Nov-20,0
+1732,SIM,Offline,205.7,18-Nov-19,16-May-20,0
+1733,WIFI,Offline,437.2,17-Oct-20,15-Apr-21,0
+1734,WIFI,Online,81.73,03-Mar-20,30-Aug-20,0
+1735,Android Mobiles,Online,109.28,19-Aug-20,15-Feb-21,0
+1736,Iphones,Online,651.21,24-Jul-21,20-Jan-22,1
+1737,WIFI,Offline,109.28,12-Jul-21,08-Jan-22,1
+1738,Tablets,Offline,9.33,07-Aug-21,03-Feb-22,1
+1739,Tablets,Offline,205.7,21-Jan-19,20-Jul-19,0
+1740,WIFI,Online,651.21,20-Nov-20,19-May-21,0
+1741,Android Mobiles,Online,9.33,19-Mar-20,15-Sep-20,0
+1742,WIFI,Online,109.28,15-Dec-19,12-Jun-20,0
+1743,Iphones,Online,109.28,13-Jul-21,09-Jan-22,1
+1744,Chargers,Online,437.2,26-Feb-21,25-Aug-21,0
+1745,Chargers,Offline,668.27,12-Jan-21,11-Jul-21,0
+1746,Tablets,Online,437.2,27-Apr-20,24-Oct-20,0
+1747,Chargers,Offline,205.7,04-Jun-21,01-Dec-21,0
+1748,SIM,Online,255.28,03-Mar-19,30-Aug-19,0
+1749,Tablets,Offline,651.21,09-Jul-20,05-Jan-21,0
+1750,SIM,Offline,109.28,02-Jul-21,29-Dec-21,0
+1751,Android Mobiles,Online,437.2,27-Jun-21,24-Dec-21,0
+1752,Android Mobiles,Online,437.2,11-Sep-21,10-Mar-22,1
+1753,WIFI,Online,81.73,21-Feb-20,19-Aug-20,0
+1754,WIFI,Online,109.28,23-Nov-19,21-May-20,0
+1755,Chargers,Offline,651.21,20-Jan-20,18-Jul-20,0
+1756,Iphones,Offline,109.28,25-Feb-21,24-Aug-21,0
+1757,Tablets,Offline,651.21,08-Jan-20,06-Jul-20,0
+1758,WIFI,Online,9.33,25-Feb-21,24-Aug-21,0
+1759,Android Mobiles,Online,47.45,14-Jan-21,13-Jul-21,0
+1760,WIFI,Online,205.7,15-Aug-20,11-Feb-21,0
+1761,Tablets,Online,437.2,25-Sep-19,23-Mar-20,0
+1762,Chargers,Online,668.27,22-Nov-19,20-May-20,0
+1763,Tablets,Online,47.45,24-Oct-19,21-Apr-20,0
+1764,Android Mobiles,Online,154.06,17-Apr-19,14-Oct-19,0
+1765,Iphones,Offline,255.28,22-Apr-21,19-Oct-21,0
+1766,SIM,Offline,437.2,07-Nov-20,06-May-21,0
+1767,Tablets,Offline,668.27,23-Mar-20,19-Sep-20,0
+1768,Android Mobiles,Offline,109.28,08-Mar-19,04-Sep-19,0
+1769,Android Mobiles,Offline,437.2,29-Apr-19,26-Oct-19,0
+1770,SIM,Offline,152.58,17-Jan-20,15-Jul-20,0
+1771,Chargers,Online,154.06,18-Mar-20,14-Sep-20,0
+1772,Chargers,Offline,81.73,05-Apr-20,02-Oct-20,0
+1773,WIFI,Online,47.45,07-Nov-20,06-May-21,0
+1774,Tablets,Online,255.28,24-Feb-21,23-Aug-21,0
+1775,WIFI,Offline,9.33,27-Jun-20,24-Dec-20,0
+1776,Iphones,Online,47.45,10-Mar-20,06-Sep-20,0
+1777,Iphones,Online,651.21,09-Feb-21,08-Aug-21,0
+1778,Iphones,Offline,47.45,29-Aug-19,25-Feb-20,0
+1779,Chargers,Online,651.21,05-Oct-19,02-Apr-20,0
+1780,Android Mobiles,Online,437.2,09-Apr-20,06-Oct-20,0
+1781,Tablets,Online,47.45,17-Jun-19,14-Dec-19,0
+1782,Iphones,Online,109.28,11-Feb-20,09-Aug-20,0
+1783,Tablets,Offline,9.33,20-Jul-19,16-Jan-20,0
+1784,Iphones,Offline,154.06,19-Jan-20,17-Jul-20,0
+1785,Android Mobiles,Online,81.73,19-Oct-21,17-Apr-22,1
+1786,Android Mobiles,Offline,668.27,05-Aug-21,01-Feb-22,1
+1787,Tablets,Online,255.28,03-Apr-21,30-Sep-21,0
+1788,Android Mobiles,Offline,205.7,29-Apr-21,26-Oct-21,0
+1789,WIFI,Offline,651.21,06-Apr-20,03-Oct-20,0
+1790,Chargers,Online,9.33,15-Dec-20,13-Jun-21,0
+1791,SIM,Offline,651.21,20-Dec-20,18-Jun-21,0
+1792,Chargers,Online,255.28,15-Sep-21,14-Mar-22,1
+1793,Android Mobiles,Offline,668.27,11-Apr-21,08-Oct-21,0
+1794,Chargers,Offline,154.06,26-May-20,22-Nov-20,0
+1795,Chargers,Online,81.73,05-Aug-19,01-Feb-20,0
+1796,Chargers,Online,205.7,28-Sep-21,27-Mar-22,1
+1797,Chargers,Offline,154.06,24-Apr-21,21-Oct-21,0
+1798,SIM,Offline,109.28,26-Sep-21,25-Mar-22,1
+1799,Tablets,Online,109.28,18-Apr-19,15-Oct-19,0
+1800,Iphones,Online,668.27,23-Feb-20,21-Aug-20,0
+1801,SIM,Online,81.73,30-Mar-21,26-Sep-21,0
+1802,WIFI,Online,109.28,18-Jun-21,15-Dec-21,0
+1803,WIFI,Online,437.2,19-Dec-20,17-Jun-21,0
+1804,SIM,Online,47.45,26-Mar-20,22-Sep-20,0
+1805,Iphones,Online,668.27,13-Apr-19,10-Oct-19,0
+1806,Iphones,Offline,421.89,09-Jun-21,06-Dec-21,0
+1807,Chargers,Offline,255.28,22-Jan-20,20-Jul-20,0
+1808,WIFI,Online,255.28,30-Nov-20,29-May-21,0
+1809,WIFI,Online,152.58,02-Nov-19,30-Apr-20,0
+1810,Iphones,Online,9.33,01-Nov-19,29-Apr-20,0
+1811,Iphones,Offline,81.73,08-Sep-19,06-Mar-20,0
+1812,Tablets,Online,437.2,17-Jul-20,13-Jan-21,0
+1813,WIFI,Offline,9.33,25-Jun-21,22-Dec-21,0
+1814,SIM,Online,9.33,24-Dec-19,21-Jun-20,0
+1815,Tablets,Offline,47.45,11-Nov-20,10-May-21,0
+1816,Iphones,Offline,668.27,03-Feb-21,02-Aug-21,0
+1817,WIFI,Online,437.2,18-May-21,14-Nov-21,0
+1818,Tablets,Offline,81.73,28-Nov-20,27-May-21,0
+1819,Chargers,Offline,651.21,25-Feb-21,24-Aug-21,0
+1820,Android Mobiles,Offline,668.27,04-May-19,31-Oct-19,0
+1821,Iphones,Online,152.58,18-Aug-20,14-Feb-21,0
+1822,WIFI,Online,81.73,01-Feb-20,30-Jul-20,0
+1823,WIFI,Offline,9.33,19-Mar-20,15-Sep-20,0
+1824,SIM,Offline,421.89,29-Jan-19,28-Jul-19,0
+1825,SIM,Online,651.21,07-Feb-21,06-Aug-21,0
+1826,Android Mobiles,Offline,651.21,22-Jun-20,19-Dec-20,0
+1827,Tablets,Online,81.73,21-Sep-19,19-Mar-20,0
+1828,Android Mobiles,Online,437.2,16-Mar-20,12-Sep-20,0
+1829,SIM,Online,205.7,19-Sep-19,17-Mar-20,0
+1830,Iphones,Offline,154.06,14-Apr-19,11-Oct-19,0
+1831,Tablets,Online,109.28,01-Oct-21,30-Mar-22,1
+1832,WIFI,Offline,205.7,16-Feb-19,15-Aug-19,0
+1833,SIM,Offline,437.2,08-Feb-19,07-Aug-19,0
+1834,Chargers,Online,81.73,17-Apr-20,14-Oct-20,0
+1835,Chargers,Online,109.28,16-May-20,12-Nov-20,0
+1836,WIFI,Offline,651.21,04-Oct-21,02-Apr-22,1
+1837,Chargers,Online,109.28,16-Feb-19,15-Aug-19,0
+1838,SIM,Online,9.33,28-Feb-19,27-Aug-19,0
+1839,Tablets,Offline,205.7,28-Aug-19,24-Feb-20,0
+1840,WIFI,Offline,651.21,28-Apr-19,25-Oct-19,0
+1841,Iphones,Offline,9.33,22-Jul-19,18-Jan-20,0
+1842,Chargers,Online,109.28,03-Jun-21,30-Nov-21,0
+1843,Android Mobiles,Online,109.28,19-Mar-19,15-Sep-19,0
+1844,Chargers,Offline,437.2,13-Jul-20,09-Jan-21,0
+1845,Chargers,Offline,668.27,27-Feb-19,26-Aug-19,0
+1846,SIM,Online,437.2,05-Jun-20,02-Dec-20,0
+1847,Iphones,Online,205.7,25-Sep-19,23-Mar-20,0
+1848,SIM,Online,255.28,29-Sep-20,28-Mar-21,0
+1849,SIM,Online,651.21,21-Mar-19,17-Sep-19,0
+1850,SIM,Offline,109.28,23-Dec-19,20-Jun-20,0
+1851,Chargers,Online,437.2,01-Oct-19,29-Mar-20,0
+1852,Iphones,Offline,437.2,07-Oct-20,05-Apr-21,0
+1853,Iphones,Offline,81.73,24-Apr-20,21-Oct-20,0
+1854,SIM,Online,109.28,20-May-21,16-Nov-21,0
+1855,Android Mobiles,Online,651.21,14-May-20,10-Nov-20,0
+1856,Android Mobiles,Online,109.28,18-Jun-21,15-Dec-21,0
+1857,Iphones,Online,651.21,22-Mar-19,18-Sep-19,0
+1858,Tablets,Online,9.33,21-Nov-20,20-May-21,0
+1859,SIM,Online,47.45,03-Aug-20,30-Jan-21,0
+1860,Iphones,Offline,205.7,09-May-21,05-Nov-21,0
+1861,Iphones,Offline,437.2,18-Jun-19,15-Dec-19,0
+1862,Tablets,Online,668.27,29-Jul-19,25-Jan-20,0
+1863,Iphones,Offline,47.45,01-Jun-21,28-Nov-21,0
+1864,SIM,Offline,154.06,12-Nov-19,10-May-20,0
+1865,Android Mobiles,Online,255.28,03-Jan-21,02-Jul-21,0
+1866,Iphones,Online,437.2,28-Oct-19,25-Apr-20,0
+1867,SIM,Online,668.27,03-Oct-19,31-Mar-20,0
+1868,Android Mobiles,Online,109.28,14-Jul-21,10-Jan-22,1
+1869,Iphones,Offline,437.2,29-Nov-20,28-May-21,0
+1870,WIFI,Online,152.58,01-Aug-19,28-Jan-20,0
+1871,Tablets,Offline,154.06,27-Apr-21,24-Oct-21,0
+1872,Android Mobiles,Online,81.73,25-Apr-20,22-Oct-20,0
+1873,Tablets,Offline,47.45,02-Dec-19,30-May-20,0
+1874,Tablets,Online,255.28,20-Jan-19,19-Jul-19,0
+1875,Tablets,Offline,9.33,14-Oct-20,12-Apr-21,0
+1876,Tablets,Online,47.45,25-Oct-19,22-Apr-20,0
+1877,Chargers,Offline,651.21,22-Jan-19,21-Jul-19,0
+1878,WIFI,Online,47.45,09-Oct-21,07-Apr-22,1
+1879,Tablets,Offline,651.21,21-Jul-19,17-Jan-20,0
+1880,Iphones,Online,437.2,14-Oct-20,12-Apr-21,0
+1881,Iphones,Online,47.45,08-Sep-20,07-Mar-21,0
+1882,Chargers,Online,109.28,09-Mar-20,05-Sep-20,0
+1883,Tablets,Online,9.33,10-Apr-19,07-Oct-19,0
+1884,Iphones,Online,154.06,10-Apr-19,07-Oct-19,0
+1885,Tablets,Online,81.73,07-Dec-20,05-Jun-21,0
+1886,Android Mobiles,Offline,668.27,30-Aug-19,26-Feb-20,0
+1887,Iphones,Online,255.28,29-Nov-19,27-May-20,0
+1888,WIFI,Offline,205.7,05-Sep-19,03-Mar-20,0
+1889,Iphones,Online,651.21,27-Aug-19,23-Feb-20,0
+1890,Chargers,Online,9.33,30-Jul-19,26-Jan-20,0
+1891,Iphones,Online,651.21,25-May-21,21-Nov-21,0
+1892,WIFI,Online,255.28,14-Feb-20,12-Aug-20,0
+1893,Android Mobiles,Online,668.27,06-Jun-19,03-Dec-19,0
+1894,WIFI,Offline,154.06,22-Feb-20,20-Aug-20,0
+1895,Tablets,Online,81.73,19-Oct-20,17-Apr-21,0
+1896,Android Mobiles,Offline,205.7,30-Nov-20,29-May-21,0
+1897,Chargers,Offline,154.06,16-Jul-20,12-Jan-21,0
+1898,SIM,Offline,109.28,31-Jan-20,29-Jul-20,0
+1899,WIFI,Online,109.28,07-May-21,03-Nov-21,0
+1900,WIFI,Offline,668.27,01-Nov-19,29-Apr-20,0
+1901,Tablets,Offline,81.73,18-May-20,14-Nov-20,0
+1902,WIFI,Offline,109.28,19-May-21,15-Nov-21,0
+1903,Iphones,Online,437.2,01-Aug-21,28-Jan-22,1
+1904,Chargers,Offline,47.45,01-Aug-21,28-Jan-22,1
+1905,Android Mobiles,Online,668.27,23-Jul-19,19-Jan-20,0
+1906,Android Mobiles,Online,421.89,21-Dec-19,18-Jun-20,0
+1907,Android Mobiles,Offline,255.28,26-Feb-19,25-Aug-19,0
+1908,Tablets,Online,255.28,11-Oct-19,08-Apr-20,0
+1909,Chargers,Online,152.58,14-Jan-20,12-Jul-20,0
+1910,WIFI,Online,9.33,03-Jul-21,30-Dec-21,0
+1911,SIM,Online,81.73,18-Jun-20,15-Dec-20,0
+1912,Android Mobiles,Offline,437.2,17-Nov-19,15-May-20,0
+1913,Chargers,Offline,9.33,27-Sep-19,25-Mar-20,0
+1914,SIM,Offline,9.33,06-Mar-21,02-Sep-21,0
+1915,Tablets,Offline,47.45,09-Jun-20,06-Dec-20,0
+1916,Tablets,Offline,668.27,21-Sep-20,20-Mar-21,0
+1917,Chargers,Offline,437.2,24-Aug-19,20-Feb-20,0
+1918,Android Mobiles,Offline,81.73,26-Dec-19,23-Jun-20,0
+1919,Chargers,Offline,651.21,23-Aug-21,19-Feb-22,1
+1920,Tablets,Offline,668.27,30-Aug-19,26-Feb-20,0
+1921,Tablets,Online,152.58,03-Nov-19,01-May-20,0
+1922,SIM,Offline,81.73,07-Dec-20,05-Jun-21,0
+1923,WIFI,Offline,9.33,05-Apr-21,02-Oct-21,0
+1924,Android Mobiles,Offline,421.89,08-Nov-19,06-May-20,0
+1925,SIM,Offline,651.21,24-Jul-20,20-Jan-21,0
+1926,Android Mobiles,Offline,651.21,01-May-19,28-Oct-19,0
+1927,Tablets,Offline,81.73,24-Jan-20,22-Jul-20,0
+1928,SIM,Online,437.2,15-Feb-20,13-Aug-20,0
+1929,Android Mobiles,Online,205.7,15-Oct-19,12-Apr-20,0
+1930,WIFI,Offline,154.06,27-Mar-20,23-Sep-20,0
+1931,SIM,Online,109.28,22-Jun-20,19-Dec-20,0
+1932,Android Mobiles,Online,205.7,13-Jun-19,10-Dec-19,0
+1933,Iphones,Online,437.2,06-Jan-20,04-Jul-20,0
+1934,SIM,Offline,81.73,15-Nov-19,13-May-20,0
+1935,Iphones,Offline,109.28,08-Aug-20,04-Feb-21,0
+1936,WIFI,Online,651.21,13-Jul-21,09-Jan-22,1
+1937,Chargers,Online,109.28,30-Dec-20,28-Jun-21,0
+1938,SIM,Offline,9.33,21-Jan-19,20-Jul-19,0
+1939,Iphones,Offline,205.7,08-May-20,04-Nov-20,0
+1940,Android Mobiles,Offline,651.21,12-Mar-21,08-Sep-21,0
+1941,WIFI,Online,9.33,20-Aug-21,16-Feb-22,1
+1942,Iphones,Offline,109.28,24-May-21,20-Nov-21,0
+1943,SIM,Online,109.28,23-Aug-21,19-Feb-22,1
+1944,Android Mobiles,Online,437.2,25-Jun-19,22-Dec-19,0
+1945,SIM,Offline,668.27,02-Sep-20,01-Mar-21,0
+1946,Iphones,Offline,437.2,14-Aug-20,10-Feb-21,0
+1947,SIM,Offline,205.7,27-Aug-21,23-Feb-22,1
+1948,Chargers,Offline,255.28,16-Dec-19,13-Jun-20,0
+1949,Chargers,Online,651.21,06-May-19,02-Nov-19,0
+1950,Tablets,Offline,109.28,30-Dec-20,28-Jun-21,0
+1951,Tablets,Offline,437.2,07-Oct-20,05-Apr-21,0
+1952,Tablets,Online,437.2,11-Dec-20,09-Jun-21,0
+1953,Chargers,Online,81.73,10-Feb-21,09-Aug-21,0
+1954,Chargers,Offline,109.28,14-Nov-20,13-May-21,0
+1955,Chargers,Offline,651.21,20-Jun-21,17-Dec-21,0
+1956,Tablets,Offline,109.28,30-Jul-21,26-Jan-22,1
+1957,WIFI,Offline,651.21,23-May-21,19-Nov-21,0
+1958,Android Mobiles,Offline,9.33,13-Jan-20,11-Jul-20,0
+1959,Tablets,Offline,47.45,20-Aug-21,16-Feb-22,1
+1960,SIM,Online,205.7,12-Jan-19,11-Jul-19,0
+1961,Tablets,Online,437.2,29-Oct-19,26-Apr-20,0
+1962,Android Mobiles,Offline,668.27,11-Sep-20,10-Mar-21,0
+1963,SIM,Online,47.45,06-Jan-19,05-Jul-19,0
+1964,SIM,Online,154.06,27-Jun-19,24-Dec-19,0
+1965,Tablets,Offline,255.28,29-Sep-21,28-Mar-22,1
+1966,Android Mobiles,Online,437.2,24-Sep-21,23-Mar-22,1
+1967,Tablets,Offline,668.27,15-Aug-19,11-Feb-20,0
+1968,WIFI,Offline,109.28,09-May-19,05-Nov-19,0
+1969,SIM,Offline,437.2,02-Oct-21,31-Mar-22,1
+1970,Iphones,Online,152.58,23-Feb-21,22-Aug-21,0
+1971,WIFI,Online,154.06,20-May-19,16-Nov-19,0
+1972,Tablets,Offline,81.73,08-Apr-21,05-Oct-21,0
+1973,WIFI,Offline,47.45,11-Mar-21,07-Sep-21,0
+1974,Tablets,Online,255.28,24-Sep-21,23-Mar-22,1
+1975,Iphones,Offline,9.33,20-Apr-21,17-Oct-21,0
+1976,WIFI,Online,47.45,17-Sep-21,16-Mar-22,1
+1977,Chargers,Online,651.21,07-Mar-21,03-Sep-21,0
+1978,WIFI,Online,47.45,11-May-19,07-Nov-19,0
+1979,Chargers,Online,651.21,25-Jun-21,22-Dec-21,0
+1980,WIFI,Online,437.2,26-Jul-21,22-Jan-22,1
+1981,Chargers,Offline,47.45,18-May-19,14-Nov-19,0
+1982,Android Mobiles,Online,109.28,04-Nov-20,03-May-21,0
+1983,Iphones,Online,9.33,08-Dec-19,05-Jun-20,0
+1984,Tablets,Offline,154.06,18-Mar-21,14-Sep-21,0
+1985,Tablets,Offline,81.73,07-Mar-20,03-Sep-20,0
+1986,Android Mobiles,Online,668.27,16-Jan-21,15-Jul-21,0
+1987,Android Mobiles,Online,255.28,14-Jul-21,10-Jan-22,1
+1988,Android Mobiles,Online,205.7,03-Apr-20,30-Sep-20,0
+1989,Android Mobiles,Online,651.21,05-Jul-21,01-Jan-22,1
+1990,SIM,Online,9.33,29-Apr-20,26-Oct-20,0
+1991,SIM,Offline,651.21,13-Oct-19,10-Apr-20,0
+1992,SIM,Offline,255.28,25-Jan-21,24-Jul-21,0
+1993,Chargers,Online,668.27,08-Jul-19,04-Jan-20,0
+1994,Chargers,Offline,154.06,20-Sep-21,19-Mar-22,1
+1995,Chargers,Offline,81.73,28-Jan-21,27-Jul-21,0
+1996,Chargers,Offline,205.7,20-May-20,16-Nov-20,0
+1997,SIM,Online,154.06,19-Apr-21,16-Oct-21,0
+1998,WIFI,Offline,109.28,20-May-21,16-Nov-21,0
+1999,WIFI,Online,109.28,28-Feb-19,27-Aug-19,0
+2000,SIM,Offline,668.27,28-Jan-21,27-Jul-21,0

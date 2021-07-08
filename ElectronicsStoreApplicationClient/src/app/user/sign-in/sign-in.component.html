@@ -1,0 +1,22 @@
+<br />
+<div class="row container">
+  <div class="offset-3 col-md-8">
+    <mat-vertical-stepper #stepper style="align-items: center !important;">
+      <mat-step [stepControl]="firstFormGroup" >
+        <form [formGroup]="firstFormGroup">
+          <ng-template matStepLabel>Provide these, we'll sign you in!</ng-template>
+          <mat-form-field>
+            <mat-label>User Name</mat-label>
+            <input matInput placeholder="User Name" [(ngModel)]="user.userName" [ngModelOptions]="{standalone: true}"
+              required>
+          </mat-form-field><br />
+          <mat-form-field>
+            <mat-label>Password</mat-label>
+            <input matInput placeholder="Password" [(ngModel)]="user.password" [ngModelOptions]="{standalone: true}"
+              required>
+          </mat-form-field><br /><br />
+        </form>
+      </mat-step>
+    </mat-vertical-stepper>
+  </div>
+</div>
